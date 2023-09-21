@@ -1,0 +1,1530 @@
+Program,Access,State,City,Address,ZipCode,Latitude,Longitude
+ELEC,Public,MD,Baltimore,200 N Holliday St,21202,39.291785,-76.610539
+ELEC,Public,MD,Bel Air,1506 Bel Air Rd,21014,39.505659,-76.382317
+ELEC,Public,MD,Catonsville,800 S Rolling Rd,21228,39.256947,-76.730918
+ELEC,Public,MD,Frederick,7418 Grove Rd,21704,39.391175,-77.407835
+ELEC,Public,MD,Germantown,19574 Amaranth Dr,20874,39.177414,-77.249773
+ELEC,Public,MD,Suitland,5000 Auth Way,20746,38.82681,-76.923233
+ELEC,Public,MD,Rockville,15911 Indianola Dr,20855,39.113757,-77.161016
+ELEC,Public,MD,Silver Spring,3131 Automobile Blvd,20904,39.077447,-76.947933
+ELEC,Public,MD,Annapolis,351 Dubois Ave,21401,39.001676,-76.525253
+ELEC,Public,MD,Indian Head,3225 Ruth B Swann Dr,20640,38.623533,-77.086898
+ELEC,Public,MD,Newburg,12480 Crain Hwy,20664,38.369101,-76.960389
+ELEC,Public,MD,Baltimore,5 N Paca St,21201,39.290036,-76.621894
+ELEC,Public,MD,Baltimore,622 W Fayette St,21201,39.290764,-76.62439
+ELEC,Public,MD,Baltimore,646 West Pratt Street,21201,39.28651,-76.624935
+ELEC,Public,MD,Baltimore,500 West Redwood Street,21201,39.28808,-76.622679
+ELEC,Public,MD,Baltimore,3801 Liberty Heights Ave,21215,39.326834,-76.681801
+ELEC,Public,MD,Rosedale,8606 Philadelphia Rd,21237,39.334156,-76.495725
+ELEC,Public,MD,Baltimore,1701 Woodlawn Dr,21207,39.312935,-76.734569
+ELEC,Public,MD,Baltimore,7900 Eastern Ave,21224,39.296284,-76.509019
+ELEC,Public,MD,Bowie,2200 Crain Hwy,20716,38.919138,-76.718428
+ELEC,Public,MD,Clarksville,12451 Auto Dr,21029,39.21254,-76.944457
+ELEC,Public,MD,College Park,9330 Baltimore Ave,20740,39.008053,-76.929772
+ELEC,Public,MD,Ellicott City,8569 Baltimore National Pike,21043,39.282746,-76.808584
+ELEC,Public,MD,Glen Burnie,7232 Ritchie Hwy,21061,39.172584,-76.619758
+ELEC,Public,MD,Hagerstown,1929 Dual Hwy,21740,39.605636,-77.687979
+ELEC,Public,MD,Laurel,3510 Ft Meade Rd,20724,39.10165650552629,-76.82296928916321
+ELEC,Public,MD,Owings Mills,11405 Reisterstown Rd,21117,39.438482,-76.802793
+ELEC,Public,MD,Timonium,2085 York Rd,21093,39.440675,-76.625866
+ELEC,Public,MD,Waldorf,2950 Crain Hwy,20601,38.630057,-76.9056
+ELEC,Public,MD,Baltimore,5701 Smith Ave,21209,39.368244,-76.652339
+ELEC,Public,MD,Glen Burnie,115 Old Farm Ct,21060,39.160868,-76.599205
+ELEC,Public,MD,Glen Burnie,300 Hospital Dr,21061,39.138576,-76.62159
+ELEC,Public,MD,Frederick,1 Waverley Dr,21702,39.421141,-77.46074
+ELEC,Public,MD,Linthicum Heights,1718 W Nursery Rd,21090,39.198352,-76.684676
+ELEC,Public,MD,Waldorf,2440 Crain Hwy,20601,38.64352,-76.891367
+ELEC,Public,MD,Mt. Airy,302 Century Dr,21771,39.368505,-77.143072
+ELEC,Public,MD,Salisbury,1902 N Salisbury Blvd,21801,38.389455,-75.580663
+ELEC,Public,MD,Baltimore,1845 E Joppa Rd,21234,39.399825,-76.551098
+ELEC,Public,MD,Hagerstown,1714 Massey Blvd,21740,39.628969,-77.76681
+ELEC,Public,MD,Fulton,8135 Maple Lawn Blvd,20759,39.150946,-76.9027
+ELEC,Public,MD,Salisbury,2012 N Salisbury Blvd,21801,38.392257,-75.575718
+ELEC,Public,MD,Clarksville,6151 Day Long Ln,21029,39.211384,-76.933986
+ELEC,Public,MD,Towson,700 Kenilworth Dr,21204,39.410302,-76.616611
+ELEC,Public,MD,Baltimore,6700 Baltimore National Pike,21228,39.289984,-76.770368
+ELEC,Public,MD,Bethesda,7315 Wisconsin Ave Enter by Hilton Garden Inn,20814,38.983183,-77.092015
+ELEC,Public,MD,Baltimore,3700 E Northern Pkwy,21206,39.35846,-76.536562
+ELEC,Public,MD,Annapolis,693 Kinkaid Rd,21402,38.995515,-76.470508
+ELEC,Public,MD,Baltimore,500-598 W Redwood St,21201,39.288696,-76.623385
+ELEC,Public,MD,Bethesda,7171 Woodmont Ave,20815,38.980281,-77.095132
+ELEC,Public,MD,Bethesda,7171 Woodmont,20815,38.980271,-77.095092
+ELEC,Public,MD,Baltimore,130 McMechen St,21217,39.308846,-76.625419
+ELEC,Public,MD,Baltimore,131 W North Ave,21201,39.31074,-76.618931
+ELEC,Public,MD,Baltimore,1104 Maryland Ave,21201,39.302352,-76.617606
+ELEC,Public,MD,Baltimore,1110 Morton St,21201,39.30246,-76.616698
+ELEC,Public,MD,Hagerstown,201 Prospect Ave,21742,39.653116,-77.715766
+ELEC,Public,MD,Sykesville,6416 Sykesville Rd,21784,39.397094,-76.956702
+ELEC,Public,MD,Mt. Airy,255-299 Cross St,21771,39.375442,-77.154666
+ELEC,Public,MD,Glen Burnie,7378 Baltimore Annapolis Blvd,21061,39.172022,-76.633261
+ELEC,Public,MD,Baltimore,6115 O'Donnell St,21224,39.281321,-76.542569
+ELEC,Public,MD,Baltimore,101 S Paca St,21201,39.287168,-76.621895
+ELEC,Public,MD,Dunkirk,10839 Town Center Blvd,20754,38.727007,-76.656474
+ELEC,Public,MD,HALETHORPE,5833 SOUTHWESTERN BLVD,21227,39.231848,-76.69217
+ELEC,Public,MD,Darlington,2559 Shureslanding Rd,21034,39.655718,-76.174479
+ELEC,Public,MD,Linthicum Heights,450 N Camp Meade Rd,21090,39.214402,-76.645894
+ELEC,Public,MD,Nottingham,9621 Belair Rd,21236,39.413183,-76.462994
+ELEC,Public,MD,Baltimore,4020 Eastern Ave,21224,39.287182,-76.563048
+ELEC,Public,MD,Woodlawn,2260-2298 N Rolling Rd,21244,39.32023,-76.758445
+ELEC,Public,MD,Baltimore,11 S Eutaw St,21201,39.288504,-76.620394
+ELEC,Public,MD,Frederick,140 W Patrick St,21701,39.414063,-77.413739
+ELEC,Public,MD,Baltimore,501 S Eden St,21231,39.285366,-76.598315
+ELEC,Public,MD,Bethesda,7730 Woodmont Ave,20814,38.987342,-77.096306
+ELEC,Public,MD,Baltimore,210 Guilford Ave,21202,39.29195,-76.611345
+ELEC,Public,MD,Silver Spring,8040 Kennett St,20910,38.988103,-77.029076
+ELEC,Public,MD,Bethesda,4501-4623 Montgomery Ave,20814,38.984088,-77.091446
+ELEC,Public,MD,Baltimore,320 Cathedral St,21201,39.293793,-76.616977
+ELEC,Public,MD,Baltimore,201 W Baltimore St,21201,39.289385,-76.618742
+ELEC,Public,MD,Silver Spring,8530 Cameron St,20910,38.996811,-77.031179
+ELEC,Public,MD,Wheaton-Glenmont,11304 Amherst Ave,20902,39.04017,-77.04886
+ELEC,Public,MD,Baltimore,22 S Gray St,21201,39.288514,-76.611444
+ELEC,Public,MD,Oxon hill,6800 Oxon Hill Rd,20745,38.794252,-77.002668
+ELEC,Public,MD,Fort Washington,6800 Oxon Hill Rd,20745,38.794258,-77.002585
+ELEC,Public,MD,Baltimore,8201 Eastern Ave,21224,39.300234,-76.492813
+ELEC,Public,MD,Baltimore,6301 York Rd,21212,39.371322,-76.609294
+ELEC,Public,MD,Baltimore,1300 E North Ave,21213,39.312348,-76.599668
+ELEC,Public,MD,Baltimore,6401 Security Blvd,21235,39.310028,-76.729627
+ELEC,Public,MD,Baltimore,50 Albermarle St,21202,39.288678,-76.604209
+ELEC,Public,MD,Baltimore,400 E Lexington St,21202,39.291177,-76.60939
+ELEC,Public,MD,Baltimore,1303 W Mount Royal Ave,21217,39.308041,-76.621291
+ELEC,Public,MD,Stevenson,1400 Greenspring Valley Rd,21153,39.42522,-76.694873
+ELEC,Public,MD,Baltimore,24 W Franklin St,21201,39.295255,-76.61648
+ELEC,Public,MD,Baltimore,3901 Hillen Rd,21218,39.336584,-76.588301
+ELEC,Public,MD,Ocean City,300 St. Louis Ave,21842,38.335516,-75.087156
+ELEC,Public,MD,Ocean City,10007 Coastal Hwy,21842,38.414273,-75.058153
+ELEC,Public,MD,Ocean City,200 125th St,21842,38.430853,-75.059004
+ELEC,Public,MD,Baltimore,3100 Swann Dr,21217,39.318709,-76.647197
+ELEC,Public,MD,Baltimore,200 S Linwood Ave,21224,39.288621,-76.576047
+ELEC,Public,MD,Baltimore,301 N High St,21202,39.293619,-76.606356
+ELEC,Public,MD,Silver Spring,801 Ellsworth Dr,20910,38.997286,-77.025565
+ELEC,Public,MD,Silver Spring,1101 Bonifant St,20910,38.993639,-77.028585
+ELEC,Public,MD,Bethesda,4910 Auburn Ave,20814,38.989545,-77.099948
+ELEC,Public,MD,Silver Spring,3211 Automobile Blvd,20904,39.078659,-76.945534
+ELEC,Public,MD,Baltimore,751 Eastern Ave,21202,39.284815,-76.603415
+ELEC,Public,MD,Point of Rocks,4000 Clay St,21777,39.273776,-77.533331
+ELEC,Public,MD,Middle River,2778 MD-150,21220,39.33776,-76.420385
+ELEC,Public,MD,Takoma Park,7500 Maple Ave,20912,38.981991,-77.010571
+ELEC,Public,MD,Takoma Park,7309 Carroll Ave,20912,38.978277,-77.005876
+ELEC,Public,MD,Takoma Park,7315 New Hampshire Ave,20912,38.982318,-76.987962
+ELEC,Public,MD,Baltimore,1101 Russell St,21230,39.279829,-76.622383
+ELEC,Public,MD,Poolesville,19721 Beall St,20837,39.145806,-77.412039
+ELEC,Public,MD,Poolesville,19961 Fisher Ave,20837,39.146667,-77.417222
+ELEC,Public,MD,Lanham,4371 Parliament Pl,20706,38.949449,-76.835461
+ELEC,Public,MD,Gaithersburg,506 S Frederick Ave,20877,39.133751,-77.194851
+ELEC,Public,MD,Gaithersburg,80 Bureau Dr,20878,39.145447,-77.216592
+ELEC,Public,MD,Gaithersburg,12 S Summit Ave,20877,39.141152,-77.194237
+ELEC,Public,MD,Laurel,10901 Scarlet Tanager Loop,20708,39.027187,-76.798668
+ELEC,Public,MD,Hollywood,24177 Tom Hodges Dr,20636,38.331636,-76.555135
+ELEC,Public,MD,Laurel,507 7th St,20707,39.103811,-76.856556
+ELEC,Public,MD,Rockville,13860 Travilah Rd,20850,39.083801,-77.232427
+ELEC,Public,MD,Baltimore,5910 Harford Rd,21214,39.356533,-76.558482
+ELEC,Public,MD,Baltimore,1303 Orleans St,21231,39.29447,-76.599243
+ELEC,Public,MD,Baltimore,6310 Reisterstown Rd,21215,39.354424,-76.700634
+ELEC,Public,MD,Baltimore,1251 Light St,21230,39.275068,-76.611912
+ELEC,Public,MD,California,23258 Surrey Way,20619,38.30324,-76.52851
+ELEC,Public,MD,Baltimore,5108 Roland Ave,21210,39.355737,-76.635104
+ELEC,Public,MD,Rockville,100 Maryland Ave,20850,39.08215,-77.150804
+ELEC,Public,MD,Rockville,100 Fleet St,20850,39.081743,-77.150453
+ELEC,Public,MD,Baltimore,2701 St Lo Dr,21213,39.32159779003317,-76.58783514445798
+ELEC,Public,MD,Baltimore,2100 Washington Blvd,21230,39.27267,-76.648655
+ELEC,Public,MD,Baltimore,4975 Greenspring Ave,21209,39.352944,-76.659878
+ELEC,Public,MD,Baltimore,333 W Camden St,21201,39.284664,-76.619604
+ELEC,Public,MD,Baltimore,6101 Hillen Rd,21239,39.368847,-76.577788
+ELEC,Public,MD,Cheverly,5811 Annapolis Rd,20784,38.937323,-76.917061
+ELEC,Public,MD,Havre de Grace,553-599 MD-7A,21078,39.552581,-76.091382
+ELEC,Public,MD,Annapolis Junction,10102 Junction Dr,20701,39.123409,-76.796078
+ELEC,Public,MD,Baltimore,3801 Erdman Ave,21213,39.315122,-76.569243
+ELEC,Public,MD,Rockville,9709 Key W Ave,20850,39.105355,-77.203378
+ELEC,Public,MD,Baltimore,3001 Boston St,21224,39.277178,-76.572417
+ELEC,Public,MD,Baltimore,4999 Windsor Mill Rd,21207,39.309277,-76.70115
+ELEC,Public,MD,Baltimore,101 W Dickman St,21230,39.262573,-76.616256
+ELEC,Public,MD,Thurmont,14707 Park Central Rd,21788,39.63378,-77.449906
+ELEC,Public,MD,Sabillasville,14850 Manahan Rd,21780,39.644424,-77.486954
+ELEC,Public,MD,Thurmont,6602 Foxville Rd,21788,39.626633,-77.439577
+ELEC,Public,MD,Clarksville,12239-12245 MD-108,21029,39.211985,-76.93729
+ELEC,Public,MD,Baltimore,626-628 W Fayette St,21201,39.290314,-76.624899
+ELEC,Public,MD,Baltimore,646 W Pratt St,21201,39.286369,-76.62474
+ELEC,Public,MD,Baltimore,1034 N Mount St,21217,39.300619,-76.644695
+ELEC,Public,MD,Baltimore,3301 Waterview Ave,21230,39.254879,-76.622308
+ELEC,Public,MD,Baltimore,6001 Hillen Rd,21239,39.363692,-76.577699
+ELEC,Public,MD,Baltimore,1120 N Charles St,21201,39.303044,-76.616255
+ELEC,Public,MD,Baltimore,1001 E Fayette St,21201,39.291285,-76.603515
+ELEC,Public,MD,Baltimore,100 E Pratt St,21202,39.287367,-76.612522
+ELEC,Public,MD,Greenbelt,25 Crescent Rd,20770,39.000738,-76.877355
+ELEC,Public,MD,Baltimore,40 E West St,21230,39.276065,-76.613202
+ELEC,Public,MD,Baltimore,680 W Lexington St,21201,39.292177,-76.62667
+ELEC,Public,MD,Baltimore,4910 Park Heights Ave,21215,39.347048,-76.673296
+ELEC,Public,MD,Bethesda,8600 Old Georgetown Rd,20817,38.998394,-77.110026
+ELEC,Public,MD,Columbia,6800 Cradlerock Way,21045,39.193601,-76.840939
+ELEC,Public,MD,Baltimore,15 Guilford Ave,21202,39.290084,-76.610788
+ELEC,Public,MD,Baltimore,1415 Key Hwy,21230,39.273755,-76.601727
+ELEC,Public,MD,Columbia,5440 Old Tucker Row,21044,39.222125,-76.887838
+ELEC,Public,MD,Baltimore,2701 Saint Lo Dr,21213,39.319173,-76.587403
+ELEC,Public,MD,Port Deposit,10670 I-95,21904,39.612124,-76.009519
+ELEC,Public,MD,Takoma Park,7000 Carroll Ave,20912,38.974757,-77.012702
+ELEC,Public,MD,Baltimore,1627 E Fort Ave,21230,39.268278,-76.591693
+ELEC,Public,MD,North Beach,9125 Chesapeake Ave,20714,38.708025,-76.532464
+ELEC,Public,MD,Takoma Park,7224 Carroll Ave,20912,38.978147,-77.006623
+ELEC,Public,MD,Baltimore,99 S Howard St,21201,39.287914,-76.619205
+ELEC,Public,MD,Baltimore,805 S Caroline St,21231,39.282302,-76.596315
+ELEC,Public,MD,Baltimore,3201 Boston St,21224,39.276811,-76.570849
+ELEC,Public,MD,Baltimore,321 E Cromwell St,21230,39.264924,-76.60639
+ELEC,Public,MD,Columbia,6180 Old Dobbin Ln,21045,39.20401,-76.813123
+ELEC,Public,MD,Hyattsville,4320 Farragut St,20781,38.951908,-76.941858
+ELEC,Public,MD,Hyattsville,4310 Hamilton St,20781,38.953701,-76.941801
+ELEC,Public,MD,Baltimore,211 N Liberty Rd,21201,39.291834,-76.616799
+ELEC,Public,MD,Rockville,101 Monroe St,20850,39.08325,-77.149282
+ELEC,Public,MD,Baltimore,308 W Fayette St,21201,39.2906,-76.620429
+ELEC,Public,MD,Baltimore,150 south Penn St,21201,39.286503,-76.625567
+ELEC,Public,MD,Hagerstown,17523 Valley Mall Rd,21740,39.626157,-77.768936
+ELEC,Public,MD,Baltimore,1318 E Fort Ave,21230,39.269901,-76.595658
+ELEC,Public,MD,Ocean City,601 S Philadelphia Ave,21842,38.328131,-75.088996
+ELEC,Public,MD,Baltimore,357 Homeland Southway,21212,39.352912,-76.6146
+ELEC,Public,MD,Vienna,200 Old Ocean Gateway,21869,38.485086,-75.823956
+ELEC,Public,MD,Baltimore,313 Homeland Southway,21212,39.353249,-76.614846
+ELEC,Public,MD,Brentwood,3807 Rhode Island Ave,20722,38.938966,-76.955265
+ELEC,Public,MD,Bethesda,4935 St Elmo Ave,20814,38.988199,-77.098404
+ELEC,Public,MD,Bethesda,4841 Bethesda Ave,20814,38.981324,-77.096837
+ELEC,Public,MD,Silver Spring,876 Bonifant St,20910,38.994311,-77.023441
+ELEC,Public,MD,Bethesda,8120 Woodmont Ave,20814,38.992092,-77.097204
+ELEC,Public,MD,Saint Charles,50 Village St,20602,38.601385,-76.900302
+ELEC,Public,MD,Columbia,7070 Samuel Morse Dr,21046,39.169397,-76.811526
+ELEC,Public,MD,Cheverly,6401 Forest Rd,20785,38.925025,-76.906358
+ELEC,Public,MD,Odenton,317 Nevada Ave,21113,39.092634,-76.709067
+ELEC,Public,MD,Columbia,7065 Samuel Morse Dr,21046,39.168759,-76.811733
+ELEC,Public,MD,Baltimore,301 Saint Paul Pl,21202,39.29255,-76.61355
+ELEC,Public,MD,Aberdeen,I-95,21001,39.497944,-76.230931
+ELEC,Public,MD,Gaithersburg,9811 Washingtonian Blvd.,20878,39.118193,-77.20231
+ELEC,Public,MD,Grasonville,108 Jackson Creek Road,21638,38.965729,-76.220938
+ELEC,Public,MD,Hagerstown,495 Premium Outlets Blvd,21740,39.605859,-77.733324
+ELEC,Public,MD,La Vale,11601 Winchester Road,21502,39.636287,-78.845731
+ELEC,Public,MD,Laurel,14700 Baltimore Ave,20707,39.095382,-76.858319
+ELEC,Public,MD,North East,John F Kennedy Memorial Hwy,21901,39.61224,-76.00878
+ELEC,Public,MD,Salisbury,2300 North Salisbury Blvd.,21801,38.4016,-75.56489
+ELEC,Public,MD,Oxon Hill,101 MGM National Ave,20745,38.795013,-77.009316
+ELEC,Public,MD,St. Michaels,114 Freemont St,21663,38.785157,-76.225453
+ELEC,Public,MD,Baltimore,1500 N Charles St,21201,39.306655,-76.616222
+ELEC,Public,MD,Baltimore,1110 Hillen St,21202,39.297285,-76.605258
+ELEC,Public,MD,Gaithersburg,8021 Cessna Ave,20879,39.172762,-77.164172
+ELEC,Public,MD,Hyattsville,4633 Arundel Pl,20781,38.946661,-76.939889
+ELEC,Public,MD,Pikesville,Roman Frasier Ln,21208,39.359215,-76.721186
+ELEC,Public,MD,Bowie,17321 Melford Blvd,20715,38.957733,-76.704338
+ELEC,Public,MD,Edmonston,5005 52nd Ave,21230,38.949948,-76.929833
+ELEC,Public,MD,Aberdeen,"I-95, Mile Marker 82",21001,39.498059,-76.231826
+ELEC,Public,MD,Baltimore,110 W Lombard St,21201,39.287861,-76.616633
+ELEC,Public,MD,Baltimore,1 Light St,21201,39.289496,-76.613588
+ELEC,Public,MD,New Carrollton,7414 Riverdale Rd,20784,38.962374,-76.882474
+ELEC,Public,MD,Hanover,7787 Arundel Mills Blvd,21076,39.152958,-76.743689
+ELEC,Public,MD,College Park,8321 Baltimore Ave,20740,38.992716,-76.932043
+ELEC,Public,MD,Rockville,1900 Chapman Ave,20852,39.059325,-77.118943
+ELEC,Public,MD,College Park,7761 Diamondback Drive,20742,38.986141,-76.934977
+ELEC,Public,MD,College Park,Hotel Drive,20740,38.986137,-76.934953
+ELEC,Public,MD,Baltimore,400 W Lexington St,21201,39.291633,-76.622509
+ELEC,Public,MD,Landover Hills,6904 Taylor St,20784,38.941542,-76.894218
+ELEC,Public,MD,Baltimore,1125 Haubert St,21230,39.273895,-76.592525
+ELEC,Public,MD,Baltimore,711 W 40th St,21211,39.33563,-76.629666
+ELEC,Public,MD,Vienna,307 Old Ocean Gateway,21869,38.486172,-75.825191
+ELEC,Public,MD,Baltimore,400 S Central Ave,21202,39.285911,-76.599462
+ELEC,Public,MD,Hurlock,222 S Main St,21643,38.631284,-75.862667
+ELEC,Public,MD,Hurlock,200 Charles St,21643,38.632842,-75.864863
+ELEC,Public,MD,Baltimore,601 N Calvert St,21202,39.297438,-76.612611
+ELEC,Public,MD,Berwyn Heights,5700 Berwyn Rd,20740,38.992364,-76.917261
+ELEC,Public,MD,Hagerstown,14 N Potomac St,21740,39.642218,-77.719215
+ELEC,Public,MD,Patuxent River,22099 Cuddihy Rd,20670,38.271482,-76.457929
+ELEC,Public,MD,Annapolis,534  Burnside Street,21403,38.972453,-76.4780693
+ELEC,Public,MD,Annapolis,210 Holiday Ct,21401,38.982522,-76.547334
+ELEC,Public,MD,Baltimore,300 Light St,21202,39.28462,-76.613671
+ELEC,Public,MD,Baltimore,300 South Charles St,21201,39.284602,-76.61595
+ELEC,Public,MD,Baltimore,316 N Charles St,21201,39.293019,-76.615604
+ELEC,Public,MD,Baltimore,4 W University Pkwy,21218,39.334176,-76.619561
+ELEC,Public,MD,Bethesda,8120 Wisconsin,20814,38.991229,-77.095893
+ELEC,Public,MD,Cambridge,429 Race St,21613,38.568961,-76.077521
+ELEC,Public,MD,Chestertown,10568 Cliff Rd,21620,39.2687177,-76.2025573
+ELEC,Public,MD,Chestertown,25227 Chestertown Rd,21620,39.211757,-76.094796
+ELEC,Public,MD,Columbia,7045 Minstrel Wy,21046,39.17575,-76.846303
+ELEC,Public,MD,Columbia,7055 Minstrel Wy,21046,39.176119,-76.847247
+ELEC,Public,MD,Dowell,13200 Dowell Rd,20629,38.350362,-76.457198
+ELEC,Public,MD,Flintstone,16701 Lakeview Rd NE,21530,39.699997,-78.656806
+ELEC,Public,MD,Frostburg,1600 Mt Aetna Rd,21532,39.65525,-79.021482
+ELEC,Public,MD,Grantsville,146 Casselman Rd,21536,39.697031,-79.1416
+ELEC,Public,MD,Grasonville,3023 Kent Narrow Wy S,21638,38.968861,-76.244728
+ELEC,Public,MD,Grasonville,3206 Main St,21638,38.966327,-76.240875
+ELEC,Public,MD,Hanover,7481 Ridge Rd,21076,39.160052,-76.711847
+ELEC,Public,MD,Keedysville,4812 Porterstown Rd,21756,39.445664,-77.705295
+ELEC,Public,MD,McHenry,102 Fort Dr,21541,39.549596,-79.35123
+ELEC,Public,MD,McHenry,174 Lake Pointe Dr,21541,39.556658,-79.357445
+ELEC,Public,MD,Monrovia,11234 Fingerboard Rd,21770,39.346653,-77.270838
+ELEC,Public,MD,Mount Airy,14463 Black Ankle Rd,21771,39.46165,-77.162396
+ELEC,Public,MD,North East,15 N Main St,21901,39.60151,-75.943346
+ELEC,Public,MD,Oakland,16766 Garrett Hwy,21550,39.470945,-79.358778
+ELEC,Public,MD,Ocean City,4001 Coastal Hwy,21842,38.366495,-75.071961
+ELEC,Public,MD,Ocean City,501 N Baltimore Ave,21842,38.336537,-75.083956
+ELEC,Public,MD,Ocean City,6600 Coastal Hwy,21842,38.389613,-75.064479
+ELEC,Public,MD,Ocean City,9100 Coastal Hwy,21842,38.407642,-75.058072
+ELEC,Public,MD,Ocean City,3200 N Baltimore Ave,21842,38.360378,-75.072756
+ELEC,Public,MD,Oxford,103 W Strand Rd,21654,38.692118,-76.175449
+ELEC,Public,MD,Sharpsburg,220 E Main St,21782,39.45953,-77.74285
+ELEC,Public,MD,Snow Hill,209 W Federal St,21863,38.172739,-75.396266
+ELEC,Public,MD,St Michaels,24500 Rolles Range Rd,21663,38.7970133,-76.2277961
+ELEC,Public,MD,St. Michaels,401 S Talbot St,21663,38.7838128,-76.2234717
+ELEC,Public,MD,St. Michaels,609 S. Talbot St,21663,38.781182,-76.221799
+ELEC,Public,MD,Taneytown,30 Trevanion Rd,21787,39.654916,-77.1730675
+ELEC,Public,MD,Westminster,451 WMC Dr,21158,39.58717,-77.010051
+ELEC,Public,MD,Baltimore,1641 Whetstone Way,21230,39.268577,-76.598901
+ELEC,Public,MD,Baltimore,225 N Calvert St,21202,39.292049,-76.61231
+ELEC,Public,MD,Baltimore,2000 W Baltimore St,21223,39.288227,-76.64864
+ELEC,Public,MD,Baltimore,1525 Russell St,21230,39.273771,-76.627853
+ELEC,Public,MD,Towson,600 W Chesapeake Ave,21204,39.400162,-76.6144
+ELEC,Public,MD,Windsor Mill,7500 Security Blvd,21244,39.314516,-76.760004
+ELEC,Public,MD,Baltimore,510 E Lexington St,21202,39.291504,-76.608454
+ELEC,Public,MD,Oxon Hill,150 Potomac Passage,20745,38.785033,-77.014435
+ELEC,Public,MD,Ellicott City,4331 Montgomery Rd,21043,39.251907,-76.814808
+ELEC,Public,MD,Emmitsburg,300 S Seton Ave,21727,39.701108,-77.328497
+ELEC,Public,MD,Annapolis,101 Ferguson Rd,21409,39.017882,-76.482173
+ELEC,Public,MD,Landover,3400 Pennsy Dr,20785,38.938404,-76.880421
+ELEC,Public,MD,Clarksville,12236-12242 MD-108,21029,39.211943,-76.937351
+ELEC,Public,MD,Cumberland,109 Welton Dr,21502,39.6588203,-78.747755
+ELEC,Public,MD,Baltimore,4719 Harford Rd,21214,39.343968,-76.567828
+ELEC,Public,MD,Baltimore,100 W Fayette St,21201,39.290481,-76.616381
+ELEC,Public,MD,Columbia,5851 Robert Oliver Pl,21045,39.210816,-76.846961
+ELEC,Public,MD,Baltimore,601 Light St,21230,39.28223,-76.612824
+ELEC,Public,MD,Baltimore,2700 Remington Ave,21211,39.320474,-76.621062
+ELEC,Public,MD,Baltimore,1641 Whetstone Way,21230,39.268351,-76.599249
+ELEC,Public,MD,Federalsburg,2630 Rosser Rd,21632,38.679196,-75.777369
+ELEC,Public,MD,Galestown,5538 Old School House Rd,21659,38.565561,-75.71589
+ELEC,Public,MD,Riverdale,6621-B Baltimore Ave,20737,38.969371,-76.937183
+ELEC,Public,MD,Rosedale,8845 Pulaski Hwy,21237,39.340466,-76.47077
+ELEC,Public,MD,Silver Spring,11701 Georgia Ave,20902,39.04764,-77.05117
+ELEC,Public,MD,Baltimore,1150 Frankfurst Ave,21226,39.24049,-76.587975
+ELEC,Public,MD,Baltimore,1150 Frankfurst Ave,21226,39.240517,-76.58784
+ELEC,Public,MD,Baltimore,1150 Frankfurst Ave,21226,39.240486,-76.588165
+ELEC,Public,MD,Rockville,9800 Medical Center Dr,20850,39.09583,-77.197235
+ELEC,Public,MD,Hughesville,8126 Old Leonardtown Rd,20637,38.541135,-76.788201
+ELEC,Public,MD,Baltimore,1100 Haubert St,21230,39.27358,-76.592479
+ELEC,Public,MD,Baltimore,1000 Hull St,21230,39.274989,-76.591687
+ELEC,Public,MD,Oxon Hill,101 MGM National Ave,20745,38.794743,-77.00885
+ELEC,Public,MD,Baltimore,400 E Pratt St,21202,39.286835,-76.609322
+ELEC,Public,MD,College Park,3711 Campus Dr,20740,38.984267,-76.949482
+ELEC,Public,MD,Baltimore,3990 Leland Ave,21224,39.26556,-76.56214
+ELEC,Public,MD,Takoma Park,7301 Carroll Avenue,20912,38.977957,-77.005801
+ELEC,Public,MD,Annapolis,273 Hilltop Ln,21403,38.963346,-76.5052
+ELEC,Public,MD,Columbia,7031 Columbia Gateway Dr,21046,39.172829,-76.801608
+ELEC,Public,MD,Baltimore,2 Railroad Ave,21209,39.37677,-76.64983
+ELEC,Public,MD,Bethesda,7501 Wisconsin Ave,20814,38.985269,-77.093619
+ELEC,Public,MD,Mount Airy,13601 Glissans Mill Road,21771,39.431826,-77.1956491
+ELEC,Public,MD,Sparks Glencoe,10 Loveton Cir,21152,39.5212999,-76.646339
+ELEC,Public,MD,Eldersberg,1260 Liberty Rd,21784,39.4047804,-76.951296
+ELEC,Public,MD,Owings Mills,5048 Painters Mill Road,21117,39.4058654,-76.7787821
+ELEC,Public,MD,Bel Air,1927 Emmorton Rd,21015,39.5019452,-76.3265292
+ELEC,Public,MD,Aberdeen,816 Long Dr,21001,39.5328597,-76.1895162
+ELEC,Public,MD,Baltimore,9616 Hartford Road,21234,39.396155,-76.523482
+ELEC,Public,MD,Baltimore,2560 Lord Baltimore Drive,21244,39.325403,-76.751758
+ELEC,Public,MD,Aberdeen,"6180 Guardian Gateway, Suite 102",21005,39.48913133,-76.1621383
+ELEC,Public,MD,Edgewood,1930 Pulaski Highway,21040,39.4354502,-76.3141145
+ELEC,Public,MD,Baltimore,2100 Liberty Heights Ave.,21217,39.319529,-76.651367
+ELEC,Public,MD,Columbia,10100 Twin Rivers Rd,21044,39.2165937,-76.8684038
+ELEC,Public,MD,Baltimore,2 Hopkins Plaza,21201,39.288894,-76.6172399
+ELEC,Public,MD,Columbia,10175 Little Patuxent Parkway,21044,39.2171594,-76.8577484
+ELEC,Public,MD,Baltimore,17 E Conway St,21202,39.2838341,-76.6139854
+ELEC,Public,MD,Baltimore,815 E. Pratt Street,21202,39.286911,-76.6033829
+ELEC,Public,MD,Baltimore,100 International Drive,21202,39.2825875,-76.6016034
+ELEC,Public,MD,Baltimore,1631 Whetstone Way,21230,39.268563565544,-76.599196849661
+ELEC,Public,MD,Rockville,1803 Research Blvd,20850,39.0984845,-77.1796859
+ELEC,Public,MD,Baltimore,"Mason F. Lord Center Tower, 5200 Eastern Avenue",21224,39.2713976,-76.5603828
+ELEC,Public,MD,Rockville,44 Maryland Ave.,20850,39.084279104057,-77.150940912466
+ELEC,Public,MD,Fulton,8115 Maple Lawn Blvd.,20759,39.1520206,-76.9026864
+ELEC,Public,MD,Fulton,8160 Maple Lawn Boulevard,20759,39.1492926,-76.9053992
+ELEC,Public,MD,Jessup,7900 Washington Blvd.,20794,39.1720712,-76.7867934
+ELEC,Public,MD,Brooklyn Park,5740 Ritchie Highway,21225,39.216143,-76.615116
+ELEC,Public,MD,Baltimore,7062 Elm Road,21240,39.18806,-76.67759
+ELEC,Public,MD,Jessup,7811 Shannon's Glen DR,20794,39.140761,-76.760309
+ELEC,Public,MD,Bethesda,4520 East West Highway,20814,38.9846718,-77.09197
+ELEC,Public,MD,Bethesda,7201 Wisconsin Ave,20814,38.981871580746,-77.092507975913
+ELEC,Public,MD,Silver Spring,8737 Colesville Road,20910,38.998714,-77.0257707
+ELEC,Public,MD,Silver Spring,8201 16th St.,20910,38.991846,-77.034751
+ELEC,Public,MD,Chevy Chase,"4412 Willard Avenue
+Suite 1",20815,38.9611607,-77.0873737
+ELEC,Public,MD,College Park,7308 Yale Avenue,20740,38.9804536,-76.9367647
+ELEC,Public,MD,Arnold,101 College Parkway,21012,39.0490132,-76.5167488
+ELEC,Public,MD,Upper Marlboro,1301 McCormick Drive,20774,38.9091841,-76.8420572
+ELEC,Public,MD,La Plata,6300 Crane Highway,20646,38.538959,-76.983092
+ELEC,Public,MD,Solomons,13920 H G Trueman Rd.,20688,38.336064,-76.465249
+ELEC,Public,MD,Annapolis,1906 Towne Centre Boulevard,21401,38.980062,-76.540338
+ELEC,Public,MD,Riverdale Park,6221 Baltimore Avenue,20737,38.970201,-76.937371
+ELEC,Public,MD,California,22757 Three Notch Rd,20619,38.2922,-76.496293
+ELEC,Public,MD,White Marsh,5361 Nottingridge Rd,21162,39.3734093,-76.4442501
+ELEC,Public,MD,Westminster,225 N Center St,21157,39.572898,-76.987457
+ELEC,Public,MD,Hanover,7795 Arundel Mills Boulevard,21076,39.153255,-76.74378
+ELEC,Public,MD,Frederick,5500 Buckeystown Pike,21703,39.384697,-77.405499
+ELEC,Public,MD,Hancock,2 Canal St,21750,39.698418,-78.178408
+ELEC,Public,MD,Baltimore,222 North Charles St,21201,39.291987,-76.615821
+ELEC,Public,MD,Chester,7 Chester Plaza,21619,38.976475,-76.288568
+ELEC,Public,MD,Linthicum,804 N Hammonds Ferry Rd,21090,39.225034,-76.665832
+ELEC,Public,MD,Germantown,18701 Club Plaza Drive Parking area below poo,20874,39.163002,-77.27701
+ELEC,Public,MD,Bethesda,5000 Bradley Blvd,20815,38.97727511,-77.099235335
+ELEC,Public,MD,Bowie,3400-3570 Crain Hwy,20716,38.9372715,-76.720378
+ELEC,Public,MD,Rockville,302 King Farm Blvd,20850,39.1133145,-77.1724325
+ELEC,Public,MD,Wheaton,11201 Georgia Ave,20902,39.039346,-77.049898
+ELEC,Public,MD,Baltimore,8200 Perry Hall Blvd,21236,39.3749855,-76.4661665
+ELEC,Public,MD,Baltimore,8200 Perry Hall Blvd,21236,39.373637,-76.468448
+ELEC,Public,MD,Baltimore,8200 Perry Hall Blvd,21236,39.37449625,-76.46829425
+ELEC,Public,MD,Nottingham,8476 Honeygo Blvd,21236,39.37738,-76.460639
+ELEC,Public,MD,Columbia,7060 Deepage Dr,21045,39.178061,-76.837686
+ELEC,Public,MD,Annapolis Junction,133 National Business Parkway,20701,39.1243889,-76.774318
+ELEC,Public,MD,Aberdeen,50 diamond st,21001,39.510993,-76.164264
+ELEC,Public,MD,Elliott City,9421 Frederick Rd,21042,39.272669,-76.839582
+ELEC,Public,MD,North Bethesda,11860 Trade Street,20852,39.05048,-77.116837
+ELEC,Public,MD,Rockville,200 East Middle Lane,20850,39.086885,-77.149982
+ELEC,Public,MD,Ocean City,12826A Ocean Gateway,21842,38.335656,-75.104945
+ELEC,Public,MD,Columbia,7110 Samuel Morse Dr,21046,39.168437,-76.812615
+ELEC,Public,MD,New Carrollton,8511 Legation Road,20784,38.961839,-76.868292
+ELEC,Public,MD,Baltimore,1000 Hilltop Cr,21250,39.257426,-76.712476
+ELEC,Public,MD,Baltimore,1000 Hilltop Cr,21250,39.25459,-76.715174
+ELEC,Public,MD,Frederick,5722 Urbana Pike,21704,39.390396,-77.40587
+ELEC,Public,MD,Beltsville,7012 Muirkirk Rd,20705,39.062078,-76.884435
+ELEC,Public,MD,Rockville,9621 Gudelsky Dr,20850,39.092487,-77.197586
+ELEC,Public,MD,Westminster,1601 Washington Rd,21157,39.530327,-76.99371
+ELEC,Public,MD,Owings Mills,10500 Mill Run Cir,21117,39.406484,-76.791849
+ELEC,Public,MD,Owings Mills,10388 Mill Run Cir,21117,39.406554,-76.792801
+ELEC,Public,MD,Sykesville,6400 W Hemlock Dr,21784,39.397792,-76.936468
+ELEC,Public,MD,Columbia,7319 Eden Brook Dr,21046,39.16732,-76.86829
+ELEC,Public,MD,Annapolis,1410 West St,21401,38.978774,-76.515132
+ELEC,Public,MD,Gaithersburg,16216 Frederick Road,20877,39.1214784,-77.17724670000001
+ELEC,Public,MD,Baltimore,707 President St,21202,39.2828701,-76.6010004
+ELEC,Public,MD,Jessup,2861 Jessup Rd,20794,39.14194,-76.762572
+ELEC,Public,MD,Frostburg,16 Uhl St,21532,39.657498,-78.926857
+ELEC,Public,MD,Upper Marlboro,14900 Pennsylvania Ave,20772,38.813056,-76.74717
+ELEC,Public,MD,Elkridge,7500 Hearthside Way,21075,39.173343,-76.78312
+ELEC,Public,MD,Elkridge,7604 Hearthside Way,21075,39.174324,-76.780879
+ELEC,Public,MD,Elkridge,7710 Hearthside Way,21075,39.175034,-76.779284
+ELEC,Public,MD,Little Orleans,35206 National Pike NE,21766,39.70410070906586,-78.32861819741441
+ELEC,Public,MD,Baltimore,915 S Wolfe St,21231,39.281326,-76.589262
+ELEC,Public,MD,Middletown,119 Washington St,21769,39.443015,-77.547636
+ELEC,Public,MD,Frederick,155 B and O Ave,21701,39.41179,-77.404906
+ELEC,Public,MD,Aberdeen,873 Long Dr,21001,39.53067,-76.18689
+ELEC,Public,MD,Hampstead,2255 Hanover Pike,21074,39.637674,-76.864844
+ELEC,Public,MD,Baltimore,3100 Swann Dr,21217,39.318525,-76.644954
+ELEC,Public,MD,Baltimore,1101 Russell St,21230,39.279097,-76.621094
+ELEC,Public,MD,Hyattsville,4310 Gallatin St,20781,38.952683,-76.941805
+ELEC,Public,MD,Vienna,113 Old Ocean Gateway,21869,38.485467,-75.823919
+ELEC,Public,MD,Havre de Grace,816 Otsego St,21903,39.552468,-76.097537
+ELEC,Public,MD,Havre de Grace,711 Pennington Ave,21078,39.549089,-76.095887
+ELEC,Public,MD,Fallston,1707 Fallston Road,21047,39.528021,-76.434844
+ELEC,Public,MD,Belair,220 S Main St,21014,39.534087,-76.347312
+ELEC,Public,MD,Clarksburg,22705 Clarksburg Road,20841,39.22984,-77.28548
+ELEC,Public,MD,Ocean City,4001 Coastal Hwy,21842,38.365827,-75.072092
+ELEC,Public,MD,Bowie,15606 Emerald Way,20716,38.94281,-76.73699
+ELEC,Public,MD,Cambridge,100 Heron Blvd,21613,38.561263,-76.046307
+ELEC,Public,MD,Frederick,400 W 7th St,21701,39.423189,-77.415839
+ELEC,Public,MD,White Marsh,10201 Philadelphia Rd,21162,39.367887,-76.44597
+ELEC,Public,MD,Upper Marlboro,1801 McCormick Drive,20774,38.9148413,-76.8451134
+ELEC,Public,MD,Bowie,4961 Tesla Dr,20715,38.9570814,-76.7077064
+ELEC,Public,MD,Bethesda,4950 Elm Street,20814,38.981849,-77.097914
+ELEC,Public,MD,Mt Airy,13601 Glissans Mill Rd,21771,39.422768,-77.193238
+ELEC,Public,MD,Columbia,8930 Stanford Blvd,21045,39.192752,-76.817224
+ELEC,Public,MD,Columbia,2350 Roxbury Mills Rd,21723,39.304585,-77.020761
+ELEC,Public,MD,Finksburg,2265 Old Westminster Pike,21048,39.517941,-76.917107
+ELEC,Public,MD,Columbia,6000 Merriweather Dr,21044,39.206342,-76.862262
+ELEC,Public,MD,Laurel,14501 Sweitzer Lane,20707,39.088727,-76.896737
+ELEC,Public,MD,Rockville,6116 Executive Boulevard,20852,39.0480505,-77.1260282
+ELEC,Public,MD,Silver Sping,1701 Elton Rd,20903,39.019734,-76.974933
+ELEC,Public,MD,Mt. Airy,615 Center St,21771,39.375592,-77.145778
+ELEC,Public,MD,White Marsh,5360 Nottingham Drive,21162,39.373861,-76.443119
+ELEC,Public,MD,Towson,825 Dulaney Valley Rd,21204,39.403373,-76.5998725
+ELEC,Public,MD,Towson,825 Dulaney Valley Rd,21204,39.4039415,-76.599733
+ELEC,Public,MD,Towson,825 Dulaney Valley Rd,21204,39.403373,-76.5998725
+ELEC,Public,MD,Upper Marlboro,9400 Peppercorn Place,20774,38.913537,-76.8434696
+ELEC,Public,MD,Silver Spring,3101 Automobile Blvd,20904,39.081139,-76.947254
+ELEC,Public,MD,Columbia,10375 Little Patuxent Pkwy,21044,39.211191,-76.858313
+ELEC,Public,MD,BWI Airport,BWI Amtrak/MARC Station-7 Amtrak Way,21240,39.19239,-76.69399
+ELEC,Public,MD,Linthicum Heights,811 Concorde Cir,21090,39.203723,-76.675094
+ELEC,Public,MD,Mount Rainier,3526-A 35th Street,20712,38.934425,-76.960056
+ELEC,Public,MD,Baltimore,111 South Calvert Street,21202,39.287278,-76.611472
+ELEC,Public,MD,North Bethesda,11580 Old Georgetown Road,20852,39.05017,-77.116525
+ELEC,Public,MD,Easton,7655 Ocean Gateway,21601,38.759287,-76.061623
+ELEC,Public,MD,Germantown,19550 Waters Road,20874,39.176502,-77.273425
+ELEC,Public,MD,Annapolis,948 Bay Ridge Road,21403,38.948556785,-76.4869745
+ELEC,Public,MD,Parkville,7709 Harford Road,21234,39.3723525,-76.542315
+ELEC,Public,MD,Columbia,10300 Little Patuxent Parkway,21044,39.2174995,-76.8607445
+ELEC,Public,MD,Columbia,10300 Little Patuxent Parkway,21044,39.21508,-76.8588255
+ELEC,Public,MD,Columbia,10300 Little Patuxent Parkway,21044,39.2178215,-76.86138
+ELEC,Public,MD,Columbia,10300 Little Patuxent Parkway,21044,39.215743,-76.862768
+ELEC,Public,MD,Columbia,10300 Little Patuxent Parkway,21044,39.216566,-76.863895
+ELEC,Public,MD,Columbia,10300 Little Patuxent Parkway,21044,39.2171455,-76.8592245
+ELEC,Public,MD,Columbia,10300 Little Patuxent Parkway,21044,39.2143145,-76.8616155
+ELEC,Public,MD,Gaithersburg,46 Bureau Drive,20878,39.1438795,-77.2177605
+ELEC,Public,MD,Rockville,625 Hungerford Drive,20850,39.0924775,-77.152405
+ELEC,Public,MD,Potomac,10100 River Road,20854,39.0168935,-77.2086615
+ELEC,Public,MD,McHenry,687 Mosser Rd,21541,39.562164,-79.342388
+ELEC,Public,MD,Hanover,7000 ARUNDEL MILLS CIRCLE,21076,39.15882,-76.72288
+ELEC,Public,MD,Cumberland,12401 Willowbrook Rd,21502,39.651682,-78.731305
+ELEC,Public,MD,Columbia,5685 Oakland Mills Rd,21045,39.215437,-76.837052
+ELEC,Public,MD,Salisbury,218 W Main St,21801,38.364827,-75.602805
+ELEC,Public,MD,Glen Burnie,7888 Crain Highway,21061,39.13757,-76.637462
+ELEC,Public,MD,Baltimore,55 Market Place,21202,39.288185,-76.605818
+ELEC,Public,MD,Baltimore,55 Market Place,21202,39.28838,-76.606411
+ELEC,Public,MD,Frederick,927 West 7th Street,21701,39.4274836,-77.4152472
+ELEC,Public,MD,Betterton,100 Main Street,21610,39.369022,-76.062421
+ELEC,Public,MD,Rockville,12051 Rockville Pike,20852,39.055088,-77.1153105
+ELEC,Public,MD,Columbia,5653 Oakland Mills Rd,21045,39.215494,-76.83713
+ELEC,Public,MD,Baltimore,3501 Boston Street,21224,39.274721,-76.563948
+ELEC,Public,MD,Abingdon,401 Constant Friendship Blvd.,21009,39.4634,-76.31509
+ELEC,Public,MD,Frederick,5273 Buckeystown Pike,21703,39.3759198,-77.412834
+ELEC,Public,MD,Hampstead,4001 Houck Ave,21074,39.608545,-76.852962
+ELEC,Public,MD,Annapolis,2002 Annapolis Mall,21401,38.9900755,-76.548098
+ELEC,Public,MD,Germantown,18331 Leaman Farm Road,20874,39.15943,-77.2790635
+ELEC,Public,MD,Gaithersburg,20044 Goshen Road,20879,39.1864825,-77.1883625
+ELEC,Public,MD,Darnestown,15700 Darnestown Rd,20874,39.12312,-77.32573
+ELEC,Public,MD,Nottingham,9701 Belair Rd,21236,39.416013,-76.459221
+ELEC,Public,MD,Columbia,7200 Cradlerock Way,21045,39.1864325,-76.842349
+ELEC,Public,MD,Gaithersburg,18250 Flower Hill Way,20879,39.155318,-77.1655325
+ELEC,Public,MD,Baltimore,2209 W Rogers Ave,21209,39.358042,-76.660576
+ELEC,Public,MD,Columbia,6405 Dobbin Road,21045,39.19639,-76.81819
+ELEC,Public,MD,Keedysville,22 Taylor Dr,21756,39.490931,-77.695944
+ELEC,Public,MD,Boonsboro,15 N Main St,21713,39.50728,-77.651516
+ELEC,Public,MD,Glen Burnie,7480 Baltimore Annapolis Blvd,21061,39.163433,-76.624182
+ELEC,Public,MD,Hampstead,1625 N Main St,21074,39.62023,-76.856198
+ELEC,Public,MD,Baltimore,3101 Wyman Park Dr,21218,39.3258398,-76.6217496
+ELEC,Public,MD,Georgetown,14028 Augustine Herman Hwy,21930,39.36095,-75.880319
+ELEC,Public,MD,Centreville,101 Lawyers Row,21617,39.044755,-76.0656196
+ELEC,Public,MD,Chevy Chase,2 Wisconsin Cir,20815,38.96197,-77.085332
+ELEC,Public,MD,Chestertown,300 Washington Avenue,21620,39.2170867,-76.0688146
+ELEC,Public,MD,Annapolis,2002 Annapolis Mall Rd,21401,38.991254,-76.542499
+ELEC,Public,MD,Clear Spring,12911 Clear Spring Rd,21722,39.653757,-77.927112
+ELEC,Public,MD,Annapolis,2100 Generals Hwy,21401,38.98946,-76.55072
+ELEC,Public,MD,Bethesda,7101 Democracy Blvd.,20817,39.0241245,-77.1478905
+ELEC,Public,MD,Potomac,11355 Seven Locks Rd,20854,39.042534,-77.157589
+ELEC,Public,MD,Wheaton,11219 Grandview Ave,20902,39.03906,-77.05225
+ELEC,Public,MD,Oakland,108 E Oak St,21550,39.408137,-79.409091
+ELEC,Public,MD,Frederick,7400 GUILFORD DR,21704,39.39557,-77.40949
+ELEC,Public,MD,Baltimore,5625 O'Donnell St,21224,39.279853,-76.546448
+ELEC,Public,MD,Ellicott City,3200 NORTH RIDGE RD,21043,39.28201,-76.81916
+ELEC,Public,MD,Hagerstown,10420 Walmart Drive,21740,39.60018,-77.73218
+ELEC,Public,MD,McHenry,2 Vacation Way,21541,39.561805,-79.35902
+ELEC,Public,MD,New Market,40 South Alley,21774,39.381634,-77.273345
+ELEC,Public,MD,Cumberland,40 N Liberty St,21502,39.652165,-78.762599
+ELEC,Public,MD,McHenry,5 Vacation Way,21541,39.561786,-79.359037
+ELEC,Public,MD,Hancock,159 W Main St,21750,39.699384,-78.183629
+ELEC,Public,MD,Hancock,159 MD-144,21750,39.699416,-78.183656
+ELEC,Public,MD,Randallstown,3525 Resource Drive,21133,39.364312,-76.78664
+ELEC,Public,MD,Annapolis,1265 Green Holly Dr,21409,39.039931,-76.453536
+ELEC,Public,MD,Columbia,10901 Little Patuxent Pkwy,21044,39.21564,-76.883179
+ELEC,Public,MD,Essex,23 Eastern Blvd,21221,39.303463,-76.485278
+ELEC,Public,MD,Arbutus,855 Sulpher Spring Rd,21227,39.241386,-76.710112
+ELEC,Public,MD,Ellicott City,3600 Sarahs Lane,21043,39.269639,-76.796996
+ELEC,Public,MD,Hagerstown,20140 Student Circle,21742,39.632452,-77.666834
+ELEC,Public,MD,Hagerstown,17803 Venture Drive,21740,39.6088,-77.75032
+ELEC,Public,MD,Glen Burnie,7940 Crain Highway,21061,39.1331695,-76.638069
+ELEC,Public,MD,Lanham,4371 parliament place,20706,38.94944,-76.835477
+ELEC,Public,MD,Bethesda,7171 Woodmont Ave,20815,38.980272,-77.095068
+ELEC,Public,MD,Annapolis Junction,10102 Junction Drive,20701,39.1234,-76.795972
+ELEC,Public,MD,Fulton,8135 Maple Lawn Blvd,20759,39.15078,-76.902795
+ELEC,Public,MD,Fulton,8135 Maple Lawn Blvd,20759,39.150615,-76.902874
+ELEC,Public,MD,Fort Washington,6800 Oxon Hill Rd,20745,38.794268,-77.002734
+ELEC,Public,MD,Bethesda,7315 Wisconsin Ave Enter by Hilton Garden Inn,20814,38.983237,-77.092149
+ELEC,Public,MD,Oxon hill,6800 Oxon Hill Rd,20745,38.794275,-77.002785
+ELEC,Public,MD,Baltimore,626-628 W Fayette St,21201,39.290358,-76.624888
+ELEC,Public,MD,Wheaton-Glenmont,11304 Amherst Ave,20902,39.040371,-77.048793
+ELEC,Public,MD,Baltimore,5 N Paca St,21201,39.289857,-76.621746
+ELEC,Public,MD,Baltimore,5 North Paca Street,21201,39.289666,-76.622139
+ELEC,Public,MD,Rockville,100 Fleet St,20850,39.081586,-77.150027
+ELEC,Public,MD,Baltimore,6401 Security Blvd,21235,39.309972,-76.729643
+ELEC,Public,MD,Baltimore,6401 Security Blvd,21235,39.310086,-76.731695
+ELEC,Public,MD,Baltimore,6401 Security Blvd,21235,39.310038,-76.731708
+ELEC,Public,MD,Baltimore,646 W Pratt St,21201,39.286389,-76.625156
+ELEC,Public,MD,Baltimore,646 W Pratt St,21201,39.286322,-76.625156
+ELEC,Public,MD,Bethesda,8600 Old Georgetown Rd,20817,38.998554,-77.110069
+ELEC,Public,MD,Bethesda,8600 Old Georgetown Rd,20817,38.998452,-77.110047
+ELEC,Public,MD,Baltimore,1401 Dock St,21231,39.280892,-76.598337
+ELEC,Public,MD,Baltimore,1401 Dock St,21231,39.280943,-76.598324
+ELEC,Public,MD,Baltimore,680 W Lexington St,21201,39.291356,-76.626754
+ELEC,Public,MD,Columbia,5440 Old Tucker Row,21044,39.222195,-76.888037
+ELEC,Public,MD,Linthicum Heights,1718 W Nursery Rd,21090,39.198402,-76.684923
+ELEC,Public,MD,Linthicum Heights,1718 W Nursery Rd,21090,39.19905,-76.683952
+ELEC,Public,MD,Linthicum Heights,1718 W Nursery Rd,21090,39.198349,-76.684732
+ELEC,Public,MD,Linthicum Heights,1718 W Nursery Rd,21090,39.198461,-76.683163
+ELEC,Public,MD,Linthicum Heights,1718 W Nursery Rd,21090,39.198382,-76.684588
+ELEC,Public,MD,Hagerstown,17523 Valley Mall Rd,21740,39.626166,-77.768983
+ELEC,Public,MD,Hagerstown,17523 Valley Mall Rd,21740,39.626174,-77.769015
+ELEC,Public,MD,Silver Spring,8455 Fenton Street,20910,38.994813,-77.023436
+ELEC,Public,MD,Gaithersburg,10201 Washingtonian Blvd,20878,39.120812,-77.205607
+ELEC,Public,MD,Oxon Hill,101 MGM National Ave,20745,38.795055,-77.009262
+ELEC,Public,MD,Oxon Hill,101 MGM National Ave,20745,38.79503,-77.009252
+ELEC,Public,MD,Oxon Hill,101 MGM National Ave,20745,38.795046,-77.00923
+ELEC,Public,MD,Oxon Hill,101 MGM National Ave,20745,38.794996,-77.009305
+ELEC,Public,MD,Oxon Hill,101 MGM National Ave,20745,38.795021,-77.009434
+ELEC,Public,MD,Oxon Hill,101 MGM National Ave,20745,38.794996,-77.009391
+ELEC,Public,MD,Oxon Hill,101 MGM National Ave,20745,38.794996,-77.009348
+ELEC,Public,MD,Oxon Hill,101 MGM National Ave,20745,38.794971,-77.009359
+ELEC,Public,MD,Oxon Hill,101 MGM National Ave,20745,38.795005,-77.009252
+ELEC,Public,MD,Abingdon,3491 Merchant Boulevard,21009,39.467983,-76.307534
+ELEC,Public,MD,Hanover,7787 Arundel Mills Blvd,21076,39.152983,-76.74372
+ELEC,Public,MD,Hanover,7787 Arundel Mills Blvd,21076,39.15305,-76.743781
+ELEC,Public,MD,Rockville,1900 Chapman ave,20852,39.05915,-77.11949
+ELEC,Public,MD,College Park,7761 Diamondback Drive,20742,38.985584,-76.934662
+ELEC,Public,MD,Baltimore,601 N Calvert street,21202,39.297462,-76.612601
+ELEC,Public,MD,Baltimore,601 N Calvert Street,21202,39.297367,-76.612593
+ELEC,Public,MD,Baltimore,601 N Calvert Street,21202,39.29739,-76.612594
+ELEC,Public,MD,Potomac,11355 Seven Locks Rd,20854,39.042682,-77.157626
+ELEC,Public,MD,Hagerstown,17513 Valley Mall Rd,21740,39.626176,-77.76911
+ELEC,Public,MD,Silver Spring,11701 Georgia Ave,20902,39.047882,-77.05113
+ELEC,Public,MD,Baltimore,1150 Frankfurst Ave,21226,39.240494,-76.5881
+ELEC,Public,MD,Baltimore,1150 Frankfurst Ave,21226,39.240486,-76.58813
+ELEC,Public,MD,Rockville,9800 Medical Center Dr,20850,39.09486,-77.196465
+ELEC,Public,MD,Rockville,9800 Medical Center Dr,20850,39.09481,-77.196481
+ELEC,Public,MD,Rockville,9800 Medical Center Dr,20850,39.094872,-77.196427
+ELEC,Public,MD,Rockville,9800 Medical Center Dr,20850,39.094787,-77.196526
+ELEC,Public,MD,College Park,3711 Campus Dr,20740,38.984284,-76.949498
+ELEC,Public,MD,Baltimore,3990 Leland Ave,21224,39.265537,-76.56216
+ELEC,Public,MD,Baltimore,3990 Leland Ave,21224,39.26561,-76.56207
+ELEC,Public,MD,Baltimore,3990 Leland Ave,21224,39.265583,-76.56212
+ELEC,Public,MD,Baltimore,3990 Leland Ave,21224,39.26565,-76.56203
+ELEC,Public,MD,Columbia,7031 Columbia Gateway Dr,21046,39.17283,-76.801575
+ELEC,Public,MD,Bethesda,7501 Wisconsin Ave,20814,38.985246,-77.093568
+ELEC,Public,MD,BWI Airport,7 Amtrak Way,21240,39.19197,-76.693985
+ELEC,Public,MD,Nottingham,8476 Honeygo Blvd,21236,39.377378,-76.460583
+ELEC,Public,MD,Rockville,9621 Gudelsky Dr,20850,39.092401,-77.197522
+ELEC,Public,MD,Jessup,2861 Jessup Rd,20794,39.142144,-76.762608
+ELEC,Public,MD,Baltimore,915 S Wolfe St,21231,39.281308,-76.588758
+ELEC,Public,MD,Baltimore,915 S Wolfe St,21231,39.281443,-76.588825
+ELEC,Public,MD,North Bethesda,911 Prose St,20852,39.051927,-77.116479
+ELEC,Public,MD,North Bethesda,911 Prose St,20852,39.051882,-77.116487
+ELEC,Public,MD,North Bethesda,911 Prose St,20852,39.051652,-77.116688
+ELEC,Public,MD,North Bethesda,911 Prose St,20852,39.052004,-77.116607
+ELEC,Public,MD,North Bethesda,911 Prose St,20852,39.051807,-77.116511
+ELEC,Public,MD,North Bethesda,911 Prose St,20852,39.051752,-77.116508
+ELEC,Public,MD,North Bethesda,911 Prose St,20852,39.051834,-77.116438
+ELEC,Public,MD,Columbia,6000 Merriweather Dr,21044,39.206494,-76.862334
+ELEC,Public,MD,Columbia,6000 Merriweather Dr,21044,39.206422,-76.862506
+ELEC,Public,MD,Columbia,6000 Merriweather Dr,21044,39.206411,-76.862714
+ELEC,Public,MD,Columbia,6000 Merriweather Dr,21044,39.20651,-76.862338
+ELEC,Public,MD,Columbia,6000 Merriweather Dr,21044,39.206528,-76.862299
+ELEC,Public,MD,Columbia,6100 Merriweather Dr,21044,39.206318,-76.86073
+ELEC,Public,MD,Columbia,6100 Merriweather Dr,21044,39.20629,-76.86072
+ELEC,Public,MD,Columbia,6100 Merriweather Dr,21044,39.206295,-76.860696
+ELEC,Public,MD,Columbia,6100 Merriweather Dr,21044,39.206283,-76.860598
+ELEC,Public,MD,Columbia,6100 Merriweather Dr,21044,39.206298,-76.860637
+ELEC,Public,MD,Columbia,6100 Merriweather Dr,21044,39.206299,-76.86058
+ELEC,Public,MD,Columbia,6100 Merriweather Dr,21044,39.206268,-76.860462
+ELEC,Public,MD,Columbia,6100 Merriweather Dr,21044,39.206265,-76.860509
+ELEC,Public,MD,Columbia,6100 Merriweather Dr,21044,39.206151,-76.860432
+ELEC,Public,MD,Columbia,6100 Merriweather Dr,21044,39.206222,-76.860563
+ELEC,Public,MD,Columbia,6100 Merriweather Dr,21044,39.206211,-76.860536
+ELEC,Public,MD,Columbia,6100 Merriweather Dr,21044,39.206273,-76.860617
+ELEC,Public,MD,Columbia,6100 Merriweather Dr,21044,39.206297,-76.860701
+ELEC,Public,MD,Columbia,6100 Merriweather Dr,21044,39.206267,-76.860781
+ELEC,Public,MD,Columbia,6100 Merriweather Dr,21044,39.206283,-76.860778
+ELEC,Public,MD,Columbia,6100 Merriweather Dr,21044,39.206364,-76.86081
+ELEC,Public,MD,Columbia,6100 Merriweather Dr,21044,39.206311,-76.860813
+ELEC,Public,MD,Columbia,6100 Merriweather Dr,21044,39.206323,-76.86088
+ELEC,Public,MD,Columbia,6100 Merriweather Dr,21044,39.206304,-76.860967
+ELEC,Public,MD,Baltimore,55 Market Place,21202,39.288224,-76.60582
+ELEC,Public,MD,Baltimore,55 Market Place,21202,39.288172,-76.606397
+ELEC,Public,MD,Baltimore,55 Market Place,21202,39.288284,-76.606404
+ELEC,Public,MD,Baltimore,55 Market Place,21202,39.288228,-76.606399
+ELEC,Public,MD,Baltimore,55 Market Place,21202,39.288338,-76.606409
+ELEC,Public,MD,Potomac,11355 Seven Locks Rd,20854,39.042602,-77.157602
+ELEC,Public,MD,Abingdon,3491 Merchant Boulevard,21009,39.466594,-76.307607
+ELEC,Public,MD,Wheaton,11219 Grandview Ave,20902,39.03897,-77.05224
+ELEC,Public,MD,Wheaton,11219 Grandview Ave,20902,39.039078,-77.05226
+ELEC,Public,MD,McHenry,2 Vacation Way,21541,39.561822,-79.358964
+ELEC,Public,MD,Silver Spring,12024 Cherry Hill Rd,20904,39.053756,-76.95641
+ELEC,Public,MD,Church Creek,4161 Golden Hill Rd,21622,38.447864,-76.138434
+ELEC,Public,MD,Oxford,314 N Morris St,21654,38.692832,-76.173983
+ELEC,Public,MD,Oxford,110 Oxford Rd,21654,38.68406,-76.169776
+ELEC,Public,MD,Parkville,2100 Townhill Rd,21234,39.402774,-76.538406
+ELEC,Public,MD,Lutherville-Timonium,88 E Padonia Rd,21093,39.455602,-76.624237
+ELEC,Public,MD,Lutherville,10650 Falls Rd,21093,39.41762,-76.669495
+ELEC,Public,MD,Baltimore,2905 Jomat Ave,21324,39.398556,-76.525189
+ELEC,Public,MD,Lusby,11740 Rousby Hall Road,20657,38.3740045,-76.4421275
+ELEC,Public,MD,Darlington,4948 Conowingo Rd,21034,39.65543,-76.178634
+ELEC,Public,MD,Darlington,2569 Shures Landing Rd,21034,39.655165,-76.174584
+ELEC,Public,MD,Baltimore,6401 York Rd,21212,39.372955,-76.61094
+ELEC,Public,MD,Dundalk,325 Sollers Point,21222,39.244197,-76.508712
+ELEC,Public,MD,Hollywood,24179 Tom Hodges Dr,20636,38.331292,-76.554201
+ELEC,Public,MD,Lexington Park,22231 Three Notch Rd,20653,38.277526,-76.466414
+ELEC,Public,MD,St. Marys City,19075 Hill Commons Dr,20686,38.187051,-76.426099
+ELEC,Public,MD,Baltimore,1202 South Caton Avenue,21227,39.26857,-76.668737
+ELEC,Public,MD,Edgewater,3 Lee Airpark Drive,21037,38.94323,-76.5631095
+ELEC,Public,MD,Laurel,910 Fairlawn Avenue,20707,39.096472,-76.855687
+ELEC,Public,MD,Accokeek,7025 Berry Road,20607,38.6603195,-77.016389
+ELEC,Public,MD,Columbia,8805 Centre Park Drive,21045,39.227559,-76.816892
+ELEC,Public,MD,Rockville,5612 Randolph Road,20852,39.053019,-77.112404
+ELEC,Public,MD,New Windsor,105 Green Valley Rd,21776,39.544128,-77.107501
+ELEC,Public,MD,Taneytown,502 E Baltimore St,21787,39.650022,-77.16028
+ELEC,Public,MD,Baltimore,8200 Perry Hall Blvd,21236,39.376299,-76.467469
+ELEC,Public,MD,La Plata,100 Rosewick Road,20646,38.5571545,-76.985237
+ELEC,Public,MD,Essex,8914 Kelso Dr,21221,39.340272,-76.466723
+ELEC,Public,MD,Bethesda,7020 Arlington Rd,20814,38.980198,-77.099144
+ELEC,Public,MD,Hagerstown,1661 Pullman Ln,21740,39.630856,-77.767868
+ELEC,Public,MD,Pasadena,4315 Mountain Road,21122,39.120004,-76.512058
+ELEC,Public,MD,Greenbelt,6915 Hanover Pkwy,20770,38.985725,-76.874545
+ELEC,Public,MD,Baltimore,1001 Scott Drive,21240,39.186978,-76.677562
+ELEC,Public,MD,Waldorf,11505  Berry Road,20603,38.63024,-76.91891
+ELEC,Public,MD,Germantown,19750 Germantown Rd,20874,39.180952,-77.264053
+ELEC,Public,MD,Germantown,19750 Germantown Rd,20874,39.180977,-77.26409
+ELEC,Public,MD,La Plata,5940 Radio Station Rd,20646,38.552479,-76.948137
+ELEC,Public,MD,Leonardtown,41676 Park Ave,20650,38.290526,-76.634468
+ELEC,Public,MD,Leonardtown,23630 Hayden Farm Ln,20650,38.31342,-76.63639
+ELEC,Public,MD,Leonardtown,23160 Moakley St,20650,38.304353,-76.640143
+ELEC,Public,MD,Towson,1300 E Joppa Road,21286,39.39638,-76.57499
+ELEC,Public,MD,White Plains,1015 St. Charles Pkwy,20695,38.578089,-76.91694
+ELEC,Public,MD,Bethesda,7020 Arlington Rd,20814,38.980197,-77.099065
+ELEC,Public,MD,Cambridge,501 Court Lane,21613,38.57231,-76.07435
+ELEC,Public,MD,Princess Anne,11916 Somerset Ave,21853,38.20858,-75.69641
+ELEC,Public,MD,Baltimore,900 N Washington Street,21205,39.30118,-76.59019
+ELEC,Public,MD,Rockville,9900 Medical Center Dr,20850,39.09716,-77.20142
+ELEC,Public,MD,Upper Marlboro,1400 McCormick Drive,20774,38.9085172,-76.8459243
+ELEC,Public,MD,Rockville,9800 Medical Center Dr,20850,39.094746,-77.196664
+ELEC,Public,MD,Rockville,9800 Medical Center Dr,20850,39.09475,-77.196648
+ELEC,Public,MD,Rockville,9800 Medical Center Dr,20850,39.094846,-77.196594
+ELEC,Public,MD,Baltimore,5457 Baltimore National Pike,21229,39.289608,-76.718854
+ELEC,Public,MD,Crisfield,100 Collins St,21817,37.975276,-75.858338
+ELEC,Public,MD,Waldorf,90 Post Office Rd,20602,38.617477,-76.90209
+ELEC,Public,MD,Rockville,14955 Shady Grove Rd,20850,39.101127,-77.191261
+ELEC,Public,MD,Sykesville,7547 Main St,21784,39.366214,-76.96843
+ELEC,Public,MD,Salisbury,1101 Camden Ave,21801,38.344682,-75.605179
+ELEC,Public,MD,White Plains,4545 Crain Hwy,20695,38.589183,-76.945492
+ELEC,Public,MD,La Plata,8190 Port Tobacco Rd,20677,38.509858,-77.037826
+ELEC,Public,MD,Snow Hill,6030 Public Landing Road,21863,38.17201,-75.376468
+ELEC,Public,MD,Snow Hill,6061 Public Landing Road,21863,38.175131,-75.377281
+ELEC,Public,MD,Oxon Hill,100 Monument Ave,20745,38.799083,-77.000286
+ELEC,Public,MD,Forest Heights,5508 Arapahoe Drive,20745,38.814111,-76.997224
+ELEC,Public,MD,California,44900 St. Andrew's Church Road,20616,38.30253,-76.52266
+ELEC,Public,MD,Baltimore,220 N Arch St,21201,39.29224,-76.625455
+ELEC,Public,MD,Baltimore,220 N Arch St,21201,39.292491,-76.625657
+ELEC,Public,MD,Westover,7994 Tawes Campus Drive,21871,38.09988,-75.72592
+ELEC,Public,MD,Salisbury,2013 US-13 BUS,21801,38.391563,-75.57531
+ELEC,Public,MD,Hyattsville,5815 Eastern Avenue,20782,38.961149,-76.9953485
+ELEC,Public,MD,Odenton,2005 Town Center Blvd,21113,39.09918,-76.70629
+ELEC,Public,MD,Baltimore,114-198 Penn St,21201,39.286477,-76.625974
+ELEC,Public,MD,Silver Spring,3301 Briggs Chaney Rd,20904,39.077338,-76.944679
+ELEC,Public,MD,Capitol Heights,6053 Old Central Avenue,20743,38.884593,-76.91258
+ELEC,Public,MD,Baltimore,1 Safari Pl,21217,39.322591,-76.649895
+ELEC,Public,MD,Silver Spring,3301 Briggs Chaney Rd,20904,39.076777,-76.944419
+ELEC,Public,MD,Grantsville,171 Main St,21536,39.697285,-79.158027
+ELEC,Public,MD,Forest Hill,2016 Rock Spring Rd,21050,39.5731928,-76.3851175
+ELEC,Public,MD,Middle River,6201 Greenleigh Avenue,21220,39.3606919,-76.4019353
+ELEC,Public,MD,Baltimore,5800 Wabash Ave,21215,39.348338,-76.701865
+ELEC,Public,MD,Rockville,10500 Rockville Pike,20852,39.029398,-77.105634
+ELEC,Public,MD,Germantown,19750 Germantown Rd,20874,39.180778,-77.264986
+ELEC,Public,MD,Germantown,20101 Century Blvd,20874,39.184977,-77.258597
+ELEC,Public,MD,Baltimore,2401 N Charles St,21218,39.3165628,-76.6168737
+ELEC,Public,MD,Odenton,1325 Annapolis Rd,21113,39.087217,-76.70019
+ELEC,Public,MD,Bowie,2614 Kenhill Dr,20715,38.961512,-76.741338
+ELEC,Public,MD,Riverdale Park,6200 Rhode Island Ave,20737,38.962624,-76.935336
+ELEC,Public,MD,Baltimore,700 East Patapsco Ave,21225,39.236164,-76.599299
+ELEC,Public,MD,Linthicum Heights,671 Elkridge Landing Rd,21090,39.1907,-76.670388
+ELEC,Public,MD,California,44219 Airport Rd,20619,38.312812,-76.545028
+ELEC,Public,MD,Rosedale,6420 PETRIE WAY RD,21030,39.33691,-76.48964
+ELEC,Public,MD,College Park,9217 51st Ave,20740,39.00395,-76.920866
+ELEC,Public,MD,Pocomoke,144 Ocean Highway,21851,38.004497,-75.543364
+ELEC,Public,MD,Newark,8334 Newark Rd,21841,38.249789,-75.29319
+ELEC,Public,MD,Cambridge,419 Academy Street,21613,38.568722,-76.076582
+ELEC,Public,MD,Annapolis,25 Northwest St,21401,38.979394,-76.494337
+ELEC,Public,MD,Bowie,14000 Jericho Park Rd Building 28 ELLC,20715,39.01527,-76.76065
+ELEC,Public,MD,Bowie,14000 Jericho Park Rd Building 28 ELLC,20715,39.01532,-76.76076
+ELEC,Public,MD,Laurel,9525 Durness Ln,20723,39.132625,-76.836328
+ELEC,Public,MD,Crofton,1681 Riedel Rd,21114,39.013612,-76.679441
+ELEC,Public,MD,Crownsville,100 Community Pl,21032,39.025902,-76.607371
+ELEC,Public,MD,Ocean City,9800 Coastal Highway,21842,38.411111,-75.056944
+ELEC,Public,MD,Bowie,15901 Excaliber Rd,20716,38.942715,-76.729955
+ELEC,Public,MD,Rockville,1101 Wootton Parkway,20852,39.067948,-77.1562346
+ELEC,Public,MD,Upper Marlboro,5700 Crain Highway,20772,38.8113665,-76.737736
+ELEC,Public,MD,Baltimore,1809 Reisterstown Road,21208,39.3880265,-76.736405
+ELEC,Public,MD,Baltimore,1020 W 41st St,21211,39.3385555,-76.635729
+ELEC,Public,MD,Baltimore,6223-25 Baltimore Natl Pike,21228,39.2818905,-76.7529905
+ELEC,Public,MD,Elkridge,6020 Marshalee Dr,21075,39.210195,-76.778689
+ELEC,Public,MD,Burtonsville,15618 Old Columbia Pk,20866,39.11285,-76.935211
+ELEC,Public,MD,California,45101 First Colony Boulevard,20619,38.298501,-76.5148655
+ELEC,Public,MD,Arnold,101 College Parkway,21012,39.0489086,-76.5165644
+ELEC,Public,MD,Gaithersburg,916 Beacon Square Court,20878,39.1255188,-77.2428589
+ELEC,Public,MD,Middle River,6211 Greenleigh Avenue,21220,39.3602427,-76.40545305
+ELEC,Public,MD,Baltimore,1501 East Monument St.,21205,39.2981563,-76.5967227
+ELEC,Public,MD,Baltimore,1501 McElderry Street,21205,39.2969395,-76.5965132
+ELEC,Public,MD,Columbia,10101 Twin Rivers Road,21044,39.2153158,-76.8656661
+ELEC,Public,MD,Baltimore,1795 Orleans St,21231,39.2949489,-76.592286
+ELEC,Public,MD,Columbia,5585 Twin Knolls Rd,21045,39.219991,-76.839574
+ELEC,Public,MD,Laurel,312 Marshall Avenue,20707,39.0975821,-76.852907
+ELEC,Public,MD,Silver Spring,8455 Colesville Road,20910,38.9956338,-77.0297293
+ELEC,Public,MD,College Park,9801 Rhode Island Avenue,20740,39.0138159,-76.9199206
+ELEC,Public,MD,Waldorf,3301 Plaza Way,20603,38.622432050693,-76.917298720624
+ELEC,Public,MD,Randallstown,9110 Liberty Rd,21133,39.369864,-76.8000069
+ELEC,Public,MD,Bethesda,4600 East West Highway,20814,38.9844519,-77.0928692
+ELEC,Public,MD,Largo,97 Capital Court,20774,38.8924929,-76.841712
+ELEC,Public,MD,Cumberland,13320 Ali Ghan Road Northeast,21502,39.6720991,-78.7157204
+ELEC,Public,MD,Baltimore,"Stadium Lot behind Warehouse, Hilltop Circle & Poplar Ave",21250,39.253321,-76.705762
+ELEC,Public,MD,Baltimore,650 South Exeter Street,21202,39.2836509,-76.6005015
+ELEC,Public,MD,Fulton,8120 Maple Lawn Boulevard,20759,39.1520052,-76.9035423
+ELEC,Public,MD,Potomac,12500 Park Potomac Ave.,20854,39.06018628,-77.15870193
+ELEC,Public,MD,Potomac,12435 Park Potomac Ave.,20854,39.0596169,-77.157087
+ELEC,Public,MD,Hanover,"7231 Parkway Drive
+Suite 100",21076,39.173997,-76.7303521
+ELEC,Public,MD,Annapolis Junction,10170 Junction Drive,20701,39.1240872,-76.7939661
+ELEC,Public,MD,Silver Spring,180 High Park Ln,20910,38.9913212,-77.03384835
+ELEC,Public,MD,Millersville,231 Najoles Road,21108,39.095502,-76.629707
+ELEC,Public,MD,Arnold,101 College Parkway,21012,39.0490696,-76.516773
+ELEC,Public,MD,Waldorf,25 High Street,20602,38.602321,-76.904329
+ELEC,Public,MD,Annapolis,181 Harry S Truman Parkway,21401,38.97782908,-76.56005884
+ELEC,Public,MD,Columbia,6175 Sunny Spring,21044,39.2071996,-76.8837771
+ELEC,Public,MD,Gaithersburg,10 Upper Rock Circle,20850,39.1134145,-77.1845173
+ELEC,Public,MD,Bethesda,6720 Rockledge Drive,20817,39.0294517,-77.1372983
+ELEC,Public,MD,Bel Air,16 South Hickory Avenue,21014,39.5368657,-76.3479098
+ELEC,Public,MD,Bel Air,1201 East Churchville Rd,21014,39.5416769,-76.3300768
+ELEC,Public,MD,Lutherville Timonium,20 West Ridgely Road,21093,39.4307914,-76.6232796
+ELEC,Public,MD,Germantown,11500 Middlebrook Road,20876,39.1792546,-77.2394376
+ELEC,Public,MD,Rockville,14995 Shady Grove Road,20850,39.1011405,-77.190535
+ELEC,Public,MD,Baltimore,1630 Whetstone Way,21230,39.269273438006,-76.600204292792
+ELEC,Public,MD,Columbia,8840 Stanford Boulevard,21045,39.1896044,-76.8151959
+ELEC,Public,MD,Rockville,2000 Tower Oaks Boulevard,20852,39.066178,-77.153254
+ELEC,Public,MD,Annapolis,105 Eastern Ave,21403,38.969882,-76.47619
+ELEC,Public,MD,Towson,855 Southerly Road,21204,39.406849,-76.599635
+ELEC,Public,MD,Baltimore,8050 Liberty Rd,21244,39.354115,-76.756714
+ELEC,Public,MD,Towson,810 Gleneagles Court,21286,39.4028716,-76.5738872
+ELEC,Public,MD,Baltimore,900 North Washington Street,21205,39.301179,-76.5901802
+ELEC,Public,MD,Gaithersburg,9711 Washingtonian Boulevard,20878,39.111969,-77.191232
+ELEC,Public,MD,Rockville,711 Hungerford Drive,20850,39.0930982,-77.1528855
+ELEC,Public,MD,Fulton,8110 Maple Lawn Boulevard,20759,39.1525773,-76.9028133
+ELEC,Public,MD,Fulton,8160 Maple Lawn Blvd,20759,39.14958699,-76.90562507
+ELEC,Public,MD,Rockville,838 Rockville Pike,20850,39.0760643,-77.1372362
+ELEC,Public,MD,Harmans,7555 Harmans Rd,21077,39.150081,-76.701751
+ELEC,Public,MD,Bethesda,5225 Pooks Hill Road,20814,39.0167159,-77.106924
+ELEC,Public,MD,Riverdale Park,6600 Kenilworth Avenue,20737,38.9690831,-76.9184508
+ELEC,Public,MD,Bowie,16800 Science DR,20715,38.962643,-76.712979
+ELEC,Public,MD,Annapolis,6 Herndon Ave,21403,38.934479,-76.464282
+ELEC,Public,MD,Elkridge,7280 Montgomery Road,21227,39.2073505,-76.7290625
+ELEC,Public,MD,Annapolis Junction,540 National Business Parkway,20701,39.1313696,-76.7697546
+ELEC,Public,MD,Ellicott City,9250 Judicial Way Suit 1900,21043,39.2368018987123,-76.8283724281407
+ELEC,Public,MD,Odenton,2005 Town Center Blvd,21113,39.09914,-76.70613
+ELEC,Public,MD,Rosedale,8825 Yellow Brick Road,21237,42.440634,-75.596977
+ELEC,Public,MD,Owings Mills,10500 Grand Central Avenue,21117,39.4069961,-76.7819518
+ELEC,Public,MD,Laurel,13800 Old Gunpowder Road,20707,39.0790345,-76.921111
+ELEC,Public,MD,Colmar Manor,40th Avenue & Newark Road,20722,38.935074,-76.948502
+ELEC,Public,MD,Colmar Manor,3613 40th Place,20722,38.93574,-76.947637
+ELEC,Public,MD,Westover,30290 Sam Barnes Rd.,21871,38.12829,-75.70333
+ELEC,Public,MD,Chevy Chase,5463 Wisconsin Ave.,20815,38.962824687,-77.084454964
+ELEC,Public,MD,Bowie,5404 Hillmeade Road,20720,38.964867,-76.7864759
+ELEC,Public,MD,Baltimore,801 Key Highway,21230,39.280452,-76.605982
+ELEC,Public,MD,Edgewater,3166 Solomon's Island Road,21037,38.93635,-76.56766
+ELEC,Public,MD,Takoma Park,7676 New Hampshire Ave,20912,38.9875017,-76.9885435
+ELEC,Public,MD,Salisbury,1101 Camden Ave,21801,38.076412,-75.570288
+ELEC,Public,MD,Gaithersburg,960 N Frederick Rd,20879,39.157465,-77.219302
+ELEC,Public,MD,Denton,North 3rd and Gay Street,21629,38.886787,-75.831079
+ELEC,Public,MD,Pocomoke,3 Market St,21851,38.076412,-75.570288
+ELEC,Public,MD,Salisbury,1101 Camden Ave,21801,38.345884,-75.603614
+ELEC,Public,MD,Chesapeake Beach,8200 Bayside Rd,20732,38.693894,-76.534237
+ELEC,Public,MD,Forest Heights,5433 Sachem Dr.,20745,38.815142,-76.999036
+ELEC,Public,MD,Frederick,1405 Key Pkwy,21702,39.424962,-77.460874
+ELEC,Public,MD,Cockeysville,9833 Greenside Dr,21030,39.460357,-76.631438
+ELEC,Public,MD,Elkridge,7825 Mistletoe Dr.,21075,39.180561,-76.775657
+ELEC,Public,MD,Hagertown,89 All Star Court,21740,39.6032127,-77.6884737
+ELEC,Public,MD,Galena,101 South Main Street,21635,39.34053,-75.878199
+ELEC,Public,MD,Clinton,9000 Stuart Lane,20735,38.766034,-76.885081
+ELEC,Public,MD,Owings Mills,11200 Reisterstown Rd,21117,39.4335,-76.79785
+ELEC,Public,MD,La Plata,200 Charles St,20646,38.532178,-76.978862
+ELEC,Public,MD,Germantown,20918 Frederick Road,20876,39.2007345,-77.2506695
+ELEC,Public,MD,Ellicott City,4649 Columbia Rd,21042,39.25028,-76.8387
+ELEC,Public,MD,Stevensville,200 Library Circle,21666,38.978889,-76.305878
+ELEC,Public,MD,Brentwood,4009 Wallace Road,20722,38.944725,-76.951664
+ELEC,Public,MD,Perry Hall,9033 Honeygo Blvd,21128,39.396147,-76.451112
+ELEC,Public,MD,Aberdeen,3710 Churchville Road,21001,39.52932,-76.19393
+ELEC,Public,MD,Abingdon,3500 Woodsdale Road,21009,39.46559,-76.31103
+ELEC,Public,MD,Lanham,10501 Greenbelt Road,20706,38.988419002,-76.823219798
+ELEC,Public,MD,Brandywine,12911 Cherry Tree Crossing Road,20613,38.7113768,-76.8394143
+ELEC,Public,MD,Beltsville,307 Center Rd,20705,39.034428,-76.874985
+ELEC,Public,MD,Smithsburg,63 Railroad Ln,21783,39.652732,-77.573563
+ELEC,Public,MD,Centreville,208 N Commerce Street,21617,39.045398,-76.065875
+ELEC,Public,MD,Owings,8120 Southern Maryland Blvd.,20736,38.69144,-76.640325
+ELEC,Public,MD,Centreville,110 Vincit Street,21617,39.037799,-76.057961
+ELEC,Public,MD,Lexington Park,21677 Franklin Delano Roosevelt Blvd,20653,38.261834,-76.457476
+ELEC,Public,MD,Upper Marlboro,9601 Capital Lane,20774,38.891524,-76.838671
+ELEC,Public,MD,Annapolis,580 Taylor Ave,21401,38.985323,-76.503581
+ELEC,Public,MD,Bel Air,2 S Bond St,21014,39.53538,-76.35084
+ELEC,Public,MD,District Heights,5811 Old Silver Hill Rd,20747,38.853049,-76.905325
+ELEC,Public,MD,Largo,301 Largo Rd,20774,38.889266,-76.82678
+ELEC,Public,MD,Hancock,Williams St,21750,39.698669,-78.180904
+ELEC,Public,MD,Waldorf,3033 Waldorf Market Place,20603,38.62572,-76.91767
+ELEC,Public,MD,Largo,301 Largo Rd,20774,38.888883,-76.822315
+ELEC,Public,MD,Lexington Park,21744 S. Coral Dr.,20653,38.26459,-76.45122
+ELEC,Public,MD,St Marys City,47645 College Dr,20686,38.19037,-76.42893
+ELEC,Public,MD,Frostburg,65 E Main St,21532,39.656334,-78.926924
+ELEC,Public,MD,Frostburg,65 E Main St,21532,39.656334,-78.92702
+ELEC,Public,MD,Glen Burnie,7951 Nolpark Ct,21061,39.13363,-76.63351
+ELEC,Public,MD,Laurel,6901 Van Dusen Road,20707,39.08124,-76.88878
+ELEC,Public,MD,Federalsburg,South Main Street,21632,38.689831,-75.772359
+ELEC,Public,MD,Street,3509 Conowingo Rd,92703,39.631759,-76.269572
+ELEC,Public,MD,Annapolis,One Park Pl,21401,38.976993,-76.503619
+ELEC,Public,MD,Westminster,444 WMC Drive,21158,39.5867343,-77.0134136
+ELEC,Public,MD,Hanover,1020 Airport 100 Way,21076,39.16905,-76.71812
+ELEC,Public,MD,Rockville,1396 Piccard Drive,20850,39.1077986,-77.1831142
+ELEC,Public,MD,CAPITOL HEIGHTS,1772 RITCHIE STATION CT Ritchie Station Marke,20743,38.865332,-76.84884
+ELEC,Public,MD,Lexington Park,22178 Three Notch RD,20653,38.27656,-76.46332
+ELEC,Public,MD,Darlington,4549 Conowingo Rd,21034,39.648473,-76.208774
+ELEC,Public,MD,Waldorf,11770 Business Park Drive,20601,38.63983,-76.89878
+ELEC,Public,MD,Friendsville,510 Church Ln,21531,39.66358,-79.409044
+ELEC,Public,MD,Mechanicsville,26929 Three Notch Rd,20659,38.40657,-76.67099
+ELEC,Public,MD,Rocky Ridge,9201 Longs Mill Rd,21778,39.584041,-77.344023
+ELEC,Public,MD,Rockville,5612 Randolph Rd,20852,39.053019,-77.112404
+ELEC,Public,MD,Germantown,19421 Walter Johnson Rd,20874,39.174382,-77.270315
+ELEC,Public,MD,Potomac,10100 River Road,20854,39.016876,-77.209288
+ELEC,Public,MD,Bel Air,1504 Belair Rd,21014,39.506437,-76.382392
+ELEC,Public,MD,Eldersburg,5928 Mineral Hill Rd,21784,39.40964,-76.905332
+ELEC,Public,MD,Ocean City,13 St. Louis Ave,21842,38.333153,-75.088885
+ELEC,Public,MD,Ocean City,11 N Baltimore Ave,21842,38.332804,-75.086093
+ELEC,Public,MD,Friendsville,277 Maple St,21531,39.664072,-79.40897
+ELEC,Public,MD,Friendsville,277 Maple St,21531,39.663781,-79.40894
+ELEC,Public,MD,Laurel,3514 Laurel Fort Meade Rd,20724,39.101658,-76.823616
+ELEC,Public,MD,Rockville,2101 East Jefferson Street,20852,39.0501622,-77.127189
+ELEC,Public,MD,Hanover,7491 Connelley Drive,21076,39.160448,-76.67952
+ELEC,Public,MD,Baltimore,1030 Mason St,21201,39.30314,-76.624508
+ELEC,Public,MD,Salisbury,1123 S Division St,21804,38.345268,-75.597621
+ELEC,Public,MD,Solomons,14200 Solomons Island Rd. S.,20688,38.33177,-76.4646
+ELEC,Public,MD,Greenbelt,6101 Cherrywood Lane,20770,39.008058,-76.904835
+ELEC,Public,MD,Upper Marlboro,9200 Basil Ct,20774,38.915517,-76.846754
+ELEC,Public,MD,Prince Frederick,176 Main St,20678,38.53925,-76.58184
+ELEC,Public,MD,Rockville,1801 Rockville Pike,20852,39.05959550000001,-77.12297739999997
+ELEC,Public,MD,Columbia,7160 Riverwood Drive,21046,39.1751001,-76.876485
+ELEC,Public,MD,Rockville,33 Monroe St,20850,39.084593,-77.149153
+ELEC,Public,MD,Denton,3 Crouse Park Ln,21629,38.888161,-75.836022
+ELEC,Public,MD,Bel Air,401 Thomas Run Rd,21015,39.558798,-76.286402
+ELEC,Public,MD,Bel Air,601  Hoagie Drive,21014,39.56867,-76.3537
+ELEC,Public,MD,Baltimore,1200 N Franklintown Rd,21216,39.298669,-76.67123
+ELEC,Public,MD,Silver Spring,11160 Veirs Mill Rd,20902,39.0381,-77.05425
+ELEC,Public,MD,Rising Sun,24 Rising Sun Town Center,21911,39.697190941,-76.057669112
+ELEC,Public,MD,Lusby,20 Appeal Ln,20657,38.3806,-76.43786
+ELEC,Public,MD,Indian Head,4200 Indian Head Hwy,20640,38.60102,-77.168226
+ELEC,Public,MD,Bel Air,401 Thomas Run Rd,21015,39.559497,-76.286209
+ELEC,Public,MD,Oxon Hill,101 MGM National Ave,20745,38.794938,-77.00923
+ELEC,Public,MD,Annapolis,1100 E College Pkwy,21409,39.020219,-76.408971
+ELEC,Public,MD,Oxon Hill,6400 Clipper Way,20745,38.800529,-76.995286
+ELEC,Public,MD,Rockville,10000 Falls Road,20854,39.01887,-77.20934
+ELEC,Public,MD,Silver Spring,12201 Plum Orchard Drive,20904,39.0562931,-76.9553881
+ELEC,Public,MD,Elkton,143-199 Howard ST,21291,39.608289,-75.827305
+ELEC,Public,MD,Bel Air,401 Thomas Run Rd,21015,39.558798,-76.284213
+ELEC,Public,MD,Stockton,5520 Hursley Rd.,21864,38.056621,-75.416463
+ELEC,Public,MD,Urbana,9180 Fingerboard Road,21704,39.32722,-77.34654
+ELEC,Public,MD,Salisbury,2740  North Salisbury Boulevard,21801,38.42085,-75.56611
+ELEC,Public,MD,Mount Airy,705 Ridge Ave,21771,39.368852,-77.154885
+ELEC,Public,MD,Laurel,10945 Price Manor Way,20723,39.1495173,-76.8988477
+ELEC,Public,MD,Silver Spring,12301 Old Columbia Pike,20904,39.058008,-76.969166
+ELEC,Public,MD,Laurel,13350 Baltimore Ave,20707,39.0733411558374,-76.8719729244967
+ELEC,Public,MD,Fort Washington,10701 Livingston Rd,20744,38.744429,-76.998756
+ELEC,Public,MD,Hyattsville,8201 15th Ave Dr,20783,38.993976,-76.980958
+ELEC,Public,MD,Hyattsville,3500 East-West Hwy,20782,38.96909,-76.95425
+ELEC,Public,MD,Clarksburg,12824 Clarksburg Square Rd,20871,39.245898,-77.26931
+ELEC,Public,MD,Frederick,5601  Buckeystown Pike,28701,39.38708,-77.40781
+ELEC,Public,MD,Clinton,8339 Woodyard Rd,20735,38.773701,-76.873533
+ELEC,Public,MD,Mitchellville,10100 Lake Arbor Way,20721,38.905977,-76.83066
+ELEC,Public,MD,Prince Frederick,1305 Dares Beach Rd,20678,38.55255,-76.57272
+ELEC,Public,MD,Rockville,5750 Fishers Lane,20852,39.062886,-77.117535
+ELEC,Public,MD,Annapolis,89 Northwest St,21401,38.980156,-76.4977
+ELEC,Public,MD,Elkton,950 elkton Blvd,21921,39.6125,-75.84388
+ELEC,Public,MD,Prince Frederick,115 JW Williams Rd,20678,38.535474,-76.606288
+ELEC,Public,MD,Silver Spring,921 Wayne Ave,20910,38.99521,-77.025393
+ELEC,Public,MD,Hyattsville,6600 Adelphi Rd,20782,38.970321,-76.950178
+ELEC,Public,MD,Marlow Heights,5000 Wheeler Rd,20748,38.822073,-76.968021
+ELEC,Public,MD,Laurel,9600 Fort Meade Road,20707,39.09616,-76.84088
+ELEC,Public,MD,Hyattsville,2413 Pinebrook Ave,20785,38.92429,-76.894637
+ELEC,Public,MD,Hyattsville,610 Hill Rd.,20785,38.898193,-76.883494
+ELEC,Public,MD,Salisbury,1304 Wayne Street,21804,38.34415,-75.60165
+ELEC,Public,MD,Bowie,4961 Tesla Drive,20715,38.9564819,-76.7075866
+ELEC,Public,MD,Hyattsville,6530 Adelphi Rd,20782,38.968936,-76.949407
+ELEC,Public,MD,Hyattsville,6530 Adelphi Rd,20782,38.968888,-76.949506
+ELEC,Public,MD,Hyattsville,6530 Adelphi Rd,20782,38.968888,-76.94941
+ELEC,Public,MD,Columbia,8865 Stanford Blvd,21045,39.1909386,-76.8181249
+ELEC,Public,MD,District Heights,3415 North Forest Edge Road,20747,38.8430792,-76.8681774
+ELEC,Public,MD,Denton,207 S 3rd St,21629,38.882931,-75.83129
+ELEC,Public,MD,Bethesda,7101 Democracy Blvd,20817,39.02491,-77.1487
+ELEC,Public,MD,Columbia,10970 Grantchester Wy,21044,39.210606,-76.86615
+ELEC,Public,MD,Bel Air,401 Thomas Run Rd,21015,39.559497,-76.286209
+ELEC,Public,MD,Westminster,125 Stoner Ave,21157,39.562031,-76.993226
+ELEC,Public,MD,Leonardtown,22950 Hollywood Rd,20650,38.29667,-76.63264
+ELEC,Public,MD,Cockeysville,9800 York Rd,21030,39.458623,-76.634854
+ELEC,Public,MD,Rockville,800 King Farm Blvd.,20850,39.1102166,-77.1818813
+ELEC,Public,MD,Annapolis,2660 Riva Rd,21401,38.974273,-76.562908
+ELEC,Public,MD,Baltimore,5901 E. Lombard St,21224,39.2950263,-76.5478517
+ELEC,Public,MD,Greenbelt,8010 Greenbelt Station Pkwy,20770,39.0003833,-76.9180057
+ELEC,Public,MD,Capitol Heights,6005 J St.,20743,38.90158,-76.911951
+ELEC,Public,MD,Potomac,11355 Seven Locks Rd,20854,39.042624,-77.157612
+ELEC,Public,MD,Potomac,11355 Seven Locks Rd,20854,39.042574,-77.157597
+ELEC,Public,MD,Westernport,47 Main St,21562,39.484691,-79.045226
+ELEC,Public,MD,Salisbury,115 E Market St.,21801,38.36496,-75.59913
+ELEC,Public,MD,Gaithersburg,13900 Travilah Rd,20878,39.084018,-77.229554
+ELEC,Public,MD,Frederick,7800 Genstar Dr,21704,39.381995,-77.394681
+ELEC,Public,MD,Annapolis,269 Hillsmere Dr,21403,38.94784,-76.493081
+ELEC,Public,MD,Mechanicsville,29133 Thompson Corner Rd,20659,38.468788,-76.777938
+ELEC,Public,MD,Baltimore,300 E Joppa Rd,21286,39.40249,-76.59693
+ELEC,Public,MD,La Plata,8730 Mitchell Rd,20646,38.55948,-77.01156
+ELEC,Public,MD,Perry Hall,9801 Belair Rd,21128,39.41883,-76.45568
+ELEC,Public,MD,Smithsburg,22401 Jefferson Blvd,21783,39.641802642,-77.590474099
+ELEC,Public,MD,Charlotte Hall,37600 New Market Rd.,20622,38.473331,-76.776321
+ELEC,Public,MD,Salisbury,535 S Park Drive,21801,38.363889,-75.589915
+ELEC,Public,MD,Annapolis,50 Harry S. Truman Pkwy,21401,38.982177,-76.563363
+ELEC,Public,MD,Baltimore,1030 Park Avenue,21201,39.303130407873,-76.619616702884
+ELEC,Public,MD,Beltsville,10515 Baltimore Avenue,20705,39.026761,-76.917178
+ELEC,Public,MD,Bel Air,1508 Belair Rd,21014,39.50467,-76.382543
+ELEC,Public,MD,Owings Mills,5000 Waverly way,21117,39.4078505,-76.784312
+ELEC,Public,MD,Lexington Park,22454 Three Notch Rd,20653,38.285804,-76.47428
+ELEC,Public,MD,Germantown,17920 Germantown Park Dr,20874,39.147224,-77.294089
+ELEC,Public,MD,Bowie,15606 Emerald Way,20716,38.943825778,-76.73811111
+ELEC,Public,MD,Gaithersburg,15790 Shady Grove Rd,20877,39.116359053,-77.18484332
+ELEC,Public,MD,Bel Air,4150 Philadelphia Rd,21015,39.480254,-76.257539
+ELEC,Public,MD,Silver Spring,1030 Forest Glen Rd,20901,39.017831,-77.028385
+ELEC,Public,MD,Oxon Hill,2300 Oxon Run Dr.,20745,38.844074,-76.96605
+ELEC,Public,MD,Wheaton,1700 University Blvd W,20902,39.037292,-77.040547
+ELEC,Public,MD,Cumberland,739 Park Street,21502,39.645879657,-78.758226168
+ELEC,Public,MD,College Park,4200 Metzerott Rd,20740,38.999596,-76.936244
+ELEC,Public,MD,College Park,4620 Cherry Hill Rd,20740,39.01698,-76.93261
+ELEC,Public,MD,Trappe,29761 Boiling Broke Point Dr.,21673,38.59271,-76.04586
+ELEC,Public,MD,Annapolis,"200 Harry S Truman Parkway,",21401,38.9772453,-76.5554159
+ELEC,Public,MD,Capitol Heights,6301 Addison Rd,20743,38.887853,-76.899006
+ELEC,Public,MD,Chevy Chase,Chevy Chase Drive,20815,38.996149,-77.075779
+ELEC,Public,MD,Cockeysville,11399 York Road,21030,39.494895266,-76.648945468
+ELEC,Public,MD,Takoma Park,6875 New Hampshire Avenue,20912,38.97344963,-76.994306466
+ELEC,Public,MD,Towson,700 E Joppa Rd,21286,39.400625,-76.588939
+ELEC,Public,MD,Chestertown,701 Washington Ave,21620,39.224089,-76.069501
+ELEC,Public,MD,Lonaconing,76 E Main St,21539,39.570968,-78.975155
+ELEC,Public,MD,Middle River,1414 Burke Road,21220,39.307213,-76.380265
+ELEC,Public,MD,Oakland,12532 Garrett Hwy,21550,39.419369297,-79.3993906845
+ELEC,Public,MD,Westminster,101 N. Court St,21157,39.571179,-76.986625
+ELEC,Public,MD,Bowie,15901 Excalibur Road,20716,38.942721,-76.7300088
+ELEC,Public,MD,Rockville,15235 Siesta Ky Way,20850,39.105683,-77.194324
+ELEC,Public,MD,Rockville,15235 Siesta Ky Way,20850,39.105717,-77.194313
+ELEC,Public,MD,Bethesda,7077 Woodmont Avenue,20815,38.9802978,-77.0926444
+ELEC,Public,MD,Annapolis,621 Ridgely Avenue,21401,38.9967584,-76.5166222
+ELEC,Public,MD,Garrison,1 Hartley Cir,21117,39.399043,-76.758495
+ELEC,Public,MD,Kensington,3711 Howard Ave,20902,39.02698,-77.072248
+ELEC,Public,MD,Olney,16601 Georgia Ave,20832,39.12572,-77.069796
+ELEC,Public,MD,Accokeek,15773 Livingston Rd.,20607,38.669959,-77.006673
+ELEC,Public,MD,Baltimore,6025 Roland Ave.,21210,39.3737442,-76.6338932
+ELEC,Public,MD,Frederick,111 Byte Drive,21702,39.458751,-77.406626
+ELEC,Public,MD,Baltimore,2560 Quarry Lake Drive,21209,39.3847962,-76.686881
+ELEC,Public,MD,Hanover,7201 Corporate Dr.,21076,39.1871889,-76.6977523
+ELEC,Public,MD,Glen Burnie,6700 Ritchie Highway,21061,39.1938043,-76.6135573
+ELEC,Public,MD,Arnold,101 College Parkway,21012,39.0489086,-76.5165644
+ELEC,Public,MD,Annapolis,888 Bestgate Road,21401,38.994233,-76.5435462
+ELEC,Public,MD,Annapolis,810 Bestgate Road,21401,38.994687,-76.537177
+ELEC,Public,MD,Lusby,11745 Rousby Hall Rd,20657,38.37316,-76.442981
+ELEC,Public,MD,California,45086 Voyage Path,20619,38.299079,-76.5215003
+ELEC,Public,MD,Kensington,3710 Mitchell St,20895,39.026047,-77.074932
+ELEC,Public,MD,Bel Air,2104 Emmorton Rd,21015,39.498785,-76.326226
+ELEC,Public,MD,Gaithersburg,16 S Summit Ave,20877,39.140453,-77.194623
+ELEC,Public,MD,Gaithersburg,16 S Summit Ave,20877,39.140447,-77.194696
+ELEC,Public,MD,Gaithersburg,16 S Summit Ave,20877,39.139772,-77.194903
+ELEC,Public,MD,Ellicott City,3451 Court House Dr,21043,39.275691,-76.803805
+ELEC,Public,MD,Cockeysville,10500 York Road,21030,39.4751771,-76.6420841
+ELEC,Public,MD,Baltimore,1068 North Front Street,21202,39.2973695,-76.6068302
+ELEC,Public,MD,Baltimore,1899 Leadenhall Street,21230,39.2678473,-76.6182956
+ELEC,Public,MD,Baltimore,4547 Annapolis Road,21227,39.2288485,-76.6395344
+ELEC,Public,MD,Odenton,730 New Waugh Chapel Road,21113,39.071568,-76.719388
+ELEC,Public,MD,Annapolis,112 West Street,21401,38.9781489,-76.4973566
+ELEC,Public,MD,White Plains,4210 Crain Highway,20695,38.595679,-76.937366
+ELEC,Public,MD,Hyattsville,7720 Barlowe Rd,20785,38.91908,-76.87317
+ELEC,Public,MD,Waldorf,2600 Crain Hwy Waldorf MD 20601,20601,38.637668,-76.89819
+ELEC,Public,MD,Bethesda,7475 Wisconsin Avenue,20814,38.9843643,-77.0936894
+ELEC,Public,MD,Chevy Chase,4800 Chevy Chase Dr,20815,38.976566,-77.095277
+ELEC,Public,MD,Hanover,7200 Alden Way,21076,39.185814,-76.740564
+ELEC,Public,MD,Clinton,8333 Woodyard Rd.,20735,38.776317,-76.870756
+ELEC,Public,MD,Hanover,7250 Parkway Dr,21076,39.17454,-76.733965
+ELEC,Public,MD,Hanover,7250 Parkway Dr,21076,39.174511,-76.733869
+ELEC,Public,MD,Hanover,7250 Parkway Dr,21076,39.174542,-76.733893
+ELEC,Public,MD,Hanover,7250 Parkway Dr,21076,39.174548,-76.734025
+ELEC,Public,MD,Edgewood,1725 Edgewood Rd,21040,39.451734,-76.305481
+ELEC,Public,MD,Lanham,4755 Walden Ln,20706,38.954368,-76.833482
+ELEC,Public,MD,Lanham,4755 Walden Ln.,20706,38.954368,-76.833493
+ELEC,Public,MD,Baltimore,1830 E Madison St,21205,39.299776,-76.591356
+ELEC,Public,MD,Annapolis,1903 Towne Centre Blvd,21401,38.980894,-76.542837
+ELEC,Public,MD,Olney,18167 Village Center Dr,20832,39.152581,-77.063608
+ELEC,Public,MD,Elkridge,6630 Marie Curie Dr,21075,39.18765,-76.795483
+ELEC,Public,MD,Ellicott City,10050 Baltimore National Pike,21042,39.28065,-76.85693
+ELEC,Public,MD,Rockville,11580 Old Georgetown Rd,20852,39.050017,-77.115721
+ELEC,Public,MD,Queenstown,441 Outlet Center Dr,21658,38.982357,-76.158326
+ELEC,Public,MD,Rockville,1101 Nelson St,20850,39.09125,-77.174699
+ELEC,Public,MD,Waldorf,11110 Mall Cir,20603,38.617446,-76.924279
+ELEC,Public,MD,Towson,939 York Rd,21204,39.40948,-76.60795
+ELEC,Public,MD,Hanover,7000 Arundel Mills Cir,21076,39.154206,-76.724281
+ELEC,Public,MD,Bowie,15437 Excelsior Dr,20716,38.94522,-76.73585
+ELEC,Public,MD,Beltsville,10515 Baltimore Ave,20705,39.02673,-76.91706
+ELEC,Public,MD,Hagerstown,495 Premium Outlets Blvd,21740,39.609695,-77.733074
+ELEC,Public,MD,Catonsville,5646 Baltimore National Pike,21228,39.289273,-76.728268
+ELEC,Public,MD,Bethesda,4950 Elm Street,20814,38.9817498,-77.0980969
+ELEC,Public,MD,Baltimore,825 E Fort Ave,21230,39.27169,-76.60193
+ELEC,Public,MD,Silver Spring,3836 International Dr,20906,39.102892,-77.076223
+ELEC,Public,MD,Hagerstown,1580 Wesel Blvd,21740,39.63193,-77.76248
+ELEC,Public,MD,Rockville,11580 Old Georgetown Rd,20852,39.0505506,-77.1164109
+ELEC,Public,MD,Gaithersburg,113 Ellington Blvd,20878,39.115519,-77.204474
+ELEC,Public,MD,Nottingham,5267 Cambell Blvd,21236,39.368397,-76.452257
+ELEC,Public,MD,Reistertown,12035 Reistertown Rd,21136,39.451351,-76.818271
+ELEC,Public,MD,Columbia,8775 Cloudleap Ct,21045,39.207521,-76.815743
+ELEC,Public,MD,Columbia,8775 Cloudleap Ct,21045,39.207483,-76.815982
+ELEC,Public,MD,Rockville,378 Maryland 355,20850,39.085258269,-77.149801406
+ELEC,Public,MD,Marlow Heights,4119 Branch Avenue,20748,38.8325125,-76.9439795
+ELEC,Public,MD,Baltimore,7920 Belair Road,21236,39.374033441,-76.511104407
+ELEC,Public,MD,Silver Spring,12521 Prosperity Dr,20904,39.061086,-76.96003
+ELEC,Public,MD,Germantown,13110 Winged Foot Ln,20874,39.19986,-77.27299
+ELEC,Public,MD,Germantown,13215 Oakland Hills Blvd,20874,39.20083,-77.27316
+ELEC,Public,MD,Germantown,13221 Oakland Hills Blvd,20874,39.20188,-77.27168
+ELEC,Public,MD,Germantown,304 Baltusrol Dr,20874,39.19978,-77.2736
+ELEC,Public,MD,Chevy Chase,5454 Wisconsin Pl,20815,38.9628,-77.08758
+ELEC,Public,MD,Bethesda,4500 E W Hwy,20814,38.98476,-77.0912
+ELEC,Public,MD,Bethesda,4710 Elm St,20814,38.981944,-77.092133
+ELEC,Public,MD,Perry Hall,9685 Honeygo Blvd.,21128,39.415425,-76.45069
+ELEC,Public,MD,Elkridge,7830 Mistletoe Dr.,21075,39.18091,-76.77549
+ELEC,Public,MD,Germantown,19520 Waters Road,20874,39.175827,-77.274188
+ELEC,Public,MD,Camp Springs,4300 W Village Ave,20746,38.830319,-76.909891
+ELEC,Public,MD,Silver Spring,11219 Grandview Ave,20902,39.038906,-77.052239
+ELEC,Public,MD,Silver Spring,11219 Grandview Ave,20902,39.038868,-77.05224
+ELEC,Public,MD,Baltimore,1805 East Madison Street,21205,39.2992877,-76.5921643
+ELEC,Public,MD,Hanover,7791 Arundel Mills Blvd,21076,39.151655,-76.74389
+ELEC,Public,MD,Laurel,699 Main St,20707,39.108101,-76.852231
+ELEC,Public,MD,Baltimore,5626 Loch Raven Blvd,21218,39.359318,-76.588684
+ELEC,Public,MD,Baltimore,5601 Loch Raven Blvd,21239,39.35933,-76.588639
+ELEC,Public,MD,Baltimore,5601 Loch Raven Blvd,21239,39.359348,-76.588698
+ELEC,Public,MD,Glen Burnie,7405 Charley Eckman Ln,21061,39.166811,-76.638747
+ELEC,Public,MD,Burtonsville,3915 National Drive,20866,39.112093,-76.9300506
+ELEC,Public,MD,Reisterstown,21 Cockeys Mill Road,21136,39.463779,-76.831057
+ELEC,Public,MD,Baltimore,1001 Fleet Street,21202,39.2840184,-76.5994792
+ELEC,Public,MD,North Bethesda,10401 Grosvenor Pl,20852,39.027178,-77.106536
+ELEC,Public,MD,Bethesda,4550 Montgomery Ave Enter from Montgomery Ave,20814,38.983898,-77.091245
+ELEC,Public,MD,Bethesda,4550 Montgomery Ave Enter from Montgomery Ave,20814,38.983837,-77.091227
+ELEC,Public,MD,Ijamsville,Bennett Creek Blvd,21754,39.320145,-77.352819
+ELEC,Public,MD,Ijamsville,Bennett Creek Blvd,21754,39.319888,-77.352701
+ELEC,Public,MD,Ijamsville,Bennett Creek Blvd,21754,39.319954,-77.352733
+ELEC,Public,MD,Ijamsville,Bennett Creek Blvd,21754,39.32007,-77.352776
+ELEC,Public,MD,Ijamsville,Bennett Creek Blvd,21754,39.319838,-77.352679
+ELEC,Public,MD,Ijamsville,Bennett Creek Blvd,21754,39.320278,-77.352904
+ELEC,Public,MD,Ijamsville,Bennett Creek Blvd,21754,39.320328,-77.352937
+ELEC,Public,MD,Ijamsville,Bennett Creek Blvd,21754,39.320195,-77.352851
+ELEC,Public,MD,Ijamsville,Bennett Creek Blvd,21754,39.32002,-77.352754
+ELEC,Public,MD,North Laurel,North Laurel Community Center,20723,39.115891,-76.837012
+ELEC,Public,MD,North Laurel,North Laurel Community Center,20723,39.115841,-76.837017
+ELEC,Public,MD,Odenton,800 Hydric Court,21113,39.0511684,-76.707316
+ELEC,Public,MD,Gaithersburg,100 Edison Park Dr,20878,39.112883,-77.236402
+ELEC,Public,MD,Bethesda,7301 Waverly St Enter by Hilton Garden Inn,20814,38.98308,-77.09199
+ELEC,Public,MD,Gaithersburg,100 Edison Park Dr,20878,39.113091,-77.236456
+ELEC,Public,MD,Bowie,16600 Governor Bridge Rd,20716,38.951708,-76.716521
+ELEC,Public,MD,Clear Spring,122 National Pike,21722,39.656443,-77.930816
+ELEC,Public,MD,Annapolis,1025 Bay Ridge Rd.,21403,38.942471,-76.48455
+ELEC,Public,MD,Columbia,5100 Columbia Road,21044,39.2362555,-76.8441899
+ELEC,Public,MD,Waldorf,2600 Crain Hwy Waldorf MD 20601,20601,38.637748,-76.898107
+ELEC,Public,MD,Myersville,3002 Ventrie Ct,21773,39.493172,-77.566698
+ELEC,Public,MD,Myersville,3002 Ventrie Ct,21773,39.493181,-77.566663
+ELEC,Public,MD,Myersville,3002 Ventrie Ct,21773,39.493185,-77.566782
+ELEC,Public,MD,Phoenix,3605 Sweet Air Rd,21131,39.513822,-76.554245
+ELEC,Public,MD,Salisbury,Lot 13 W Chestnut St,21801,38.368755,-75.600855
+ELEC,Public,MD,Brooklyn Park,300 Hammonds Ln,21225,39.215215,-76.622617
+ELEC,Public,MD,Waldorf,2475 Old Washington Rd.,20601,38.63476,-76.89957
+ELEC,Public,MD,Fort Washington,177 Tucker Road,20744,38.7851372,-76.9786926
+ELEC,Public,MD,Brentwood,4300 39th Place,20722,38.943757,-76.9561
+ELEC,Public,MD,Baltimore,121 S. Fremont Avenue,21201,39.2862838,-76.6271014
+ELEC,Public,MD,Easton,6730 Ocean Gateway,21601,38.732976,-76.069559
+ELEC,Public,MD,Marlboro,14201 School Ln,20814,38.815003,-76.759252
+ELEC,Public,MD,Waldorf,2910 Crain Hwy,20601,38.630795,-76.90441
+ELEC,Public,MD,Annapolis,850 Revell Highway,21409,39.014053,-76.406705
+ELEC,Public,MD,Forestville,Ritchie Station Court at Bus Stop #2,20747,38.86637,-76.849911
+ELEC,Public,MD,Baltimore,2825 S Hanover St,21225,39.253263,-76.616109
+ELEC,Public,MD,Oxon Hill,150 Potomac Passage,20745,38.784882,-77.014722
+ELEC,Public,MD,Rockville,700 Fallsgrove Dr,20850,39.099443,-77.185306
+ELEC,Public,MD,Silver Springs,8616 2nd Ave,20910,38.882571,-77.117828
+ELEC,Public,MD,Bethesda,4935 Saint Elmo Ave,20814,38.988143,-77.098624
+ELEC,Public,MD,Ellicott City,9035 Baltimore National Pike,21042,39.276107,-76.823373
+ELEC,Public,MD,Baltimore,1215 East Fort Avenue,21230,39.2685951,-76.5977639
+ELEC,Public,MD,Bethesda,4950 Elm Street,20814,38.9819,-77.09808
+ELEC,Public,MD,Snow Hill,E Green St.,21863,38.177824,-75.392864
+ELEC,Public,MD,Salisbury,2015 N Salisbury Blvd,21801,38.392051,-75.574909
+ELEC,Public,MD,Oxon Hill,251 Mariner Passage,20745,38.783105,-77.014799
+ELEC,Public,MD,Crownsville,1104 Sunrise Beach Rd,21032,39.064555,-76.589958
+ELEC,Public,MD,Olney,16651 Georgia Ave.,20832,39.127711,-77.071729
+ELEC,Public,MD,Bladensburg,4229 Edmonston Rd.,20710,38.94255,-76.932819
+ELEC,Public,MD,Silver Spring,1315 East-West Hwy,20910,38.992335,-77.030585
+ELEC,Public,MD,Capital Heights,1300 Capitol Heights Blvd.,20743,38.871074,-76.918565
+ELEC,Public,MD,Wye Mills,101 Wye Trading Dr.,21679,38.939959,-76.063613
+ELEC,Public,MD,Elkridge,6095 Marshalee Dr,21075,39.205422,-76.773466
+ELEC,Public,MD,Bowie,10620 Martin Luther King Jr. Highway,20720,38.95635,-76.82404
+ELEC,Public,MD,Rockville,5601 Fishers Lane,20852,39.064175,-77.112563
+ELEC,Public,MD,Silver Springs,12000 Plum Orchard Dr,20904,39.048904,-76.95674
+ELEC,Public,MD,Silver Springs,12000 Plum Orchard Dr,20904,39.048707,-76.956663
+ELEC,Public,MD,Rockville,1801 Chapman Ave,20852,39.060001,-77.121076
+ELEC,Public,MD,Waldorf,2910 Crain Hwy,20601,38.63095,-76.90464
+ELEC,Public,MD,Bethesda,8001 Woodmont Ave,20814,38.9898679,-77.096218
+ELEC,Public,MD,Laurel,312 Main Street,20707,39.104169,-76.844478
+ELEC,Public,MD,Stevensville,111 Thompson Creek Rd.,21666,38.977805,-76.321074
+ELEC,Public,MD,Baltimore,1515 Washington Blvd,21230,39.278219,-76.640777
+ELEC,Public,MD,Annapolis,134 134 Prince George Street,21401,38.9784295,-76.4862319
+ELEC,Public,MD,Chesapeake Beach,4160 Mears Ave,20732,38.690484,-76.5335407
+ELEC,Public,MD,Linthicum Heights,741 Scott Dr.,21090,39.188975,-76.678329
+ELEC,Public,MD,Hagerstown,17625 Technology Blvd,21740,39.599098,-77.7591319
+ELEC,Public,MD,Catonsville,493 Misty Wood Way,21228,39.286769,-76.723228
+ELEC,Public,MD,Annapolis,850 Revell Highway,21409,39.01354,-76.40682
+ELEC,Public,MD,Annapolis,850 Revell Highway,21409,39.013805,-76.406702
+ELEC,Public,MD,Annapolis,6 Bladen St,21401,38.980459,-76.492619
+ELEC,Public,MD,Reisterstown,410 Chartley Park Rd,21136,39.459072,-76.82411
+ELEC,Public,MD,Reisterstown,410 Chartley Park Rd,21136,39.45913,-76.82411
+ELEC,Public,MD,Catonsville,493 Misty Wood Way,21228,39.28711,-76.7232
+ELEC,Public,MD,Thurmont,12698 Catoctin Furnace Rd,21788,39.581157,-77.434425
+ELEC,Public,MD,Bowie,14000 Jericho Park Rd,20715,39.018355,-76.759818
+ELEC,Public,MD,Glen Burnie,7500 Ritchie Hwy,21061,39.162831,-76.622982
+ELEC,Public,MD,Baltimore,711 S Central Ave,21202,39.282715,-76.598431
+ELEC,Public,MD,Nottingham,8352 Honeygo Blvd,21236,39.374872,-76.462194
+ELEC,Public,MD,Nottingham,8352 Honeygo Blvd,21236,39.375324,-76.462851
+ELEC,Public,MD,Nottingham,8352 Honeygo Blvd,21236,39.375314,-76.462898
+ELEC,Public,MD,College Park,10100 IKEA Way,20740,39.020366,-76.928134
+ELEC,Public,MD,College Park,10100 IKEA Way,20740,39.020404,-76.928106
+ELEC,Public,MD,College Park,10100 IKEA Way,20740,39.020425,-76.928023
+ELEC,Public,MD,College Park,10100 Baltimore Ave,20740,39.020676,-76.928835
+ELEC,Public,MD,College Park,10100 Baltimore Ave,20740,39.021242,-76.928186
+ELEC,Public,MD,Cockeysville,10710 Beaver Dam Rd,21030,39.477213,-76.652965
+ELEC,Public,MD,Baltimore,1700 Pennsylvania Ave,21217,39.30425,-76.635673
+ELEC,Public,MD,Berwyn Heights,5411 Berwyn Rd.,20740,38.993495,-76.921468
+ELEC,Public,MD,Columbia,10970 Grantchester Wy,21044,39.210605,-76.866148
+ELEC,Public,MD,Columbia,10970 Grantchester Way,21044,39.210605,-76.866105
+ELEC,Public,MD,Columbia,10970 Grantchester Wy,21044,39.21058,-76.866148
+ELEC,Public,MD,Columbia,10970 Grantchester Wy,21044,39.210563,-76.866169
+ELEC,Public,MD,Columbia,10970 Grantchester Wy,21044,39.210572,-76.866148
+ELEC,Public,MD,Prince Frederick,130 Auto Drive,20678,38.561791,-76.604672
+ELEC,Public,MD,Waldorf,11765 St Linus Drive,20601,38.562914,-76.904098
+ELEC,Public,MD,Baltimore,111 South Calvert Street,21202,39.287278,-76.611472
+ELEC,Public,MD,District Heights,Pennsylvania Ave. & Silver Hill Rd.,20747,38.853703417,-76.912472967
+ELEC,Public,MD,Hyattsville,3500 East West Highway,20782,38.9690035,-76.9558445
+ELEC,Public,MD,Baltimore,111 South Calvert Street,21202,39.28698015,-76.6115648
+ELEC,Public,MD,Towson,825 Dulaney Valley Rd,21204,39.403532,-76.5987925
+ELEC,Public,MD,Towson,825 Dulaney Valley Rd,21204,39.403533,-76.5987935
+ELEC,Public,MD,Gaithersburg,800 Rabbit Rd,20878,39.141167,-77.231071
+ELEC,Public,MD,Owings Mills,4514 Painters Mill Road,21117,39.39617470660157,-76.78838511501472
+ELEC,Public,MD,Silver Spring,12210 Cherry Hill Rd,20904,39.061083,-76.95843
+ELEC,Public,MD,Prince Frederick,113 Auto Dr,20678,38.562496,-76.597115
+ELEC,Public,MD,Bladensburg,4500 57th Avenue,20710,38.945536,-76.917444
+ELEC,Public,MD,Jessup,7645 Port Capital Dr,20794,39.172667,-76.777938
+ELEC,Public,MD,Baltimore,1221 W 36th St,21211,39.330487,-76.636124
+ELEC,Public,MD,Upper Marlboro,5700 Crain Hwy,20772,38.810376,-76.737791
+ELEC,Public,MD,Ocean City,12502 Ocean Gateway,21842,38.33901,-75.11905
+ELEC,Public,MD,Solomons,142 Williams Street,20688,38.319072,-76.454363
+ELEC,Public,MD,Silver Spring,1290 East-West Highway,20910,38.9914385,-77.0316186
+ELEC,Public,MD,Rockville,9711 Key West Avenue,20850,39.1054175,-77.205897
+ELEC,Public,MD,Columbia,7160 Columbia Gateway Drive,21046,39.1798022,-76.8062363
+ELEC,Public,MD,Upper Marlboro,3500 Brown Station Road,20774,38.8468262,-76.7842119
+ELEC,Public,MD,Beltsville,4700 Corridor Place,20705,39.0542043,-76.9251219
+ELEC,Public,MD,Jessup,8450 Dorsey Run Rd,20794,39.140131,-76.795237
+ELEC,Public,MD,Cumberland,"10102 Country Club Rd,",21502,39.656407,-78.736072
+ELEC,Public,MD,Ocean City,12708 Ocean Gateway,21842,38.336318,-75.110408
+ELEC,Public,MD,Baltimore,3700 Toone Street,21224,39.2792005,-76.5650904
+ELEC,Public,MD,Bethesda,4818 Del Ray Ave,20814,38.990584,-77.097701
+ELEC,Public,MD,Bethesda,4818 Del Ray Ave,20814,38.990572,-77.097691
+ELEC,Public,MD,Hagerstown,1945 Dual Hwy,21740,39.603132,-77.68627
+ELEC,Public,MD,Rockville,5720 Fishers Ln,20852,39.062595,-77.11713
+ELEC,Public,MD,Rockville,5720 Fishers Ln,20852,39.06252,-77.117127
+ELEC,Public,MD,Baltimore,1700 Johnson St,21230,39.270759,-76.609564
+ELEC,Public,MD,Capitol Heights,4801 Marlboro Pike,20743,38.872772,-76.931607
+ELEC,Public,MD,College Park,4400 Calvert Rd,20740,38.97869,-76.938334
+ELEC,Public,MD,College Park,4400 Calvert Rd,20740,38.978733,-76.938264
+ELEC,Public,MD,College Park,4400 Calvert Rd,20740,38.978625,-76.938243
+ELEC,Public,MD,College Park,4400 Calvert Rd,20740,38.978733,-76.9382
+ELEC,Public,MD,College Park,4400 Calvert Rd,20740,38.978716,-76.938321
+ELEC,Public,MD,College Park,4400 Calvert Rd,20740,38.97869,-76.938322
+ELEC,Public,MD,College Park,4429 Calvert Rd,20740,38.978085,-76.93822
+ELEC,Public,MD,College Park,4400 Calvert Rd,20740,38.978728,-76.938327
+ELEC,Public,MD,Silver Spring,8530 Cameron St,20910,38.99696,-77.03098
+ELEC,Public,MD,Silver Spring,8530 Cameron St,20910,38.996883,-77.03107
+ELEC,Public,MD,Hagerstown,10310 Auto Pl,21740,39.598506,-77.67907
+ELEC,Public,MD,Hagerstown,10310 Auto Pl,21740,39.598449,-77.679177
+ELEC,Public,MD,Gaithersburg,690 Watkins Mill Road,20879,39.15852,-77.22261
+ELEC,Public,MD,North East,2031 Pulaski Hwy,21901,39.613128,-75.930298
+ELEC,Public,MD,Columbia,9200 Berger Rd,21046,39.177854,-76.827801
+ELEC,Public,MD,Elkton,560 E Pulaski Hwy,21921,39.598396,-75.811543
+ELEC,Public,MD,Germantown,19901 Germantown road,20874,39.177675,-77.257783
+ELEC,Public,MD,Columbia,6751 Columbia Gateway Dr,21046,39.184292,-76.80166
+ELEC,Public,MD,Columbia,6751 Columbia Gateway Dr,21046,39.184225,-76.801509
+ELEC,Public,MD,Columbia,6751 Columbia Gateway Dr,21046,39.1842,-76.801544
+ELEC,Public,MD,Elkridge,8250 Gateway Overlook Dr,21075,39.183485,-76.795458
+ELEC,Public,MD,Germantown,19901 Germantown Rd,20874,39.1785,-77.256558
+ELEC,Public,MD,Germantown,19901 Germantown Rd,20874,39.177695,-77.253699
+ELEC,Public,MD,Bethesda,"4841 Bethesda Ave,",20814,38.981195,-77.097295
+ELEC,Public,MD,Silver,1120 Jackson Road,20904,39.056501,-76.984827
+ELEC,Public,MD,Joppatowne,965 Rumsey Pl,21085,39.421307,-76.36807
+ELEC,Public,MD,Baltimore,2760 Boston St.,21224,39.279051,-76.577415
+ELEC,Public,MD,Hollywood,24179 Tom Hodges Drive,20636,38.331024,-76.554436
+ELEC,Public,MD,Hughesville,15065 Burnt Store Rd,20637,38.532556,-76.785477
+ELEC,Public,MD,Baltimore,700 S Sharp St.,21230,39.281045,-76.617526
+ELEC,Public,MD,Baltimore,30 S Gilmor St.,21223,39.286919,-76.642288
+ELEC,Public,MD,Rockville,390 Martins LN,20850,39.093727,-77.1603
+ELEC,Public,MD,Ocean City,12303 Coastal Hwy,21842,38.429002,-75.056104
+ELEC,Public,MD,Baltimore,1401 Dock St,21231,39.280935,-76.598311
+ELEC,Public,MD,Baltimore,1401 Dock St,21231,39.280931,-76.598331
+ELEC,Public,MD,Baltimore,1401 Dock St,21231,39.280939,-76.598325
+ELEC,Public,MD,Baltimore,1401 Dock St,21231,39.280924,-76.598337
+ELEC,Public,MD,Baltimore,1401 Dock St,21231,39.280917,-76.598309
+ELEC,Public,MD,Baltimore,1401 Dock St,21231,39.280914,-76.598324
+ELEC,Public,MD,Baltimore,1401 Dock St,21231,39.280924,-76.598307
+ELEC,Public,MD,Baltimore,1401 Dock St,21231,39.280907,-76.598267
+ELEC,Public,MD,Baltimore,1401 Dock St,21231,39.280904,-76.598317
+ELEC,Public,MD,Baltimore,1401 Dock St,21231,39.28094,-76.598293
+ELEC,Public,MD,Baltimore,1401 Dock St,21231,39.281004,-76.598303
+ELEC,Public,MD,Baltimore,1401 Dock St,21231,39.280832,-76.598323
+ELEC,Public,MD,Baltimore,1201 Wills St,21231,39.27992,-76.597653
+ELEC,Public,MD,Leonardtown,23365 Hollywood Rd,20650,38.31074,-76.63178
+ELEC,Public,MD,Leonardtown,23365 Hollywood Rd,20650,38.31073,-76.631714
+ELEC,Public,MD,Silver Spring,116 University Blvd W,20901,39.02155,-77.01518
+ELEC,Public,MD,Chevy Chase,8525 Chevy Chase Lake Terrace,20815,38.995334,-77.075474
+ELEC,Public,MD,Chevy Chase,8525 Chevy Chase Lake Terrace,20815,38.995822,-77.075881
+ELEC,Public,MD,Chevy Chase,8525 Chevy Chase Lake Terrace,20815,38.995332,-77.075495
+ELEC,Public,MD,Chevy Chase,8525 Chevy Chase Lake Terrace,20815,38.995368,-77.075499
+ELEC,Public,MD,Hyattsville,5249 Kenilworth Ave,20781,38.952686,-76.921451
+ELEC,Public,MD,Dunkirk,10750 SOUTHERN MARYLAND BLVD,20754,38.723856,-76.664173
+ELEC,Public,MD,Odenton,1320 Cheswick Ln,21113,39.091644,-76.705994
+ELEC,Public,MD,Baltimore,5 Amtrak Way,21240,39.192469,-76.69437
+ELEC,Public,MD,Oxon Hill,916 Marcy Ave,20745,38.818426,-76.992427
+ELEC,Public,MD,Landover Hills,3817 64th Ave,20784,38.936854,-76.906323
+ELEC,Public,MD,Landover,3402 Dodge Park Rd,20785,38.931192,-76.880879
+ELEC,Public,MD,Landover,2252 Brightseat Rd,20785,38.920777,-76.860925
+ELEC,Public,MD,Nottingham,8476 Honeygo Blvd,21236,39.377666,-76.46024
+ELEC,Public,MD,Columbia,7099 Copperwood Way,21046,39.173634,-76.862062
+ELEC,Public,MD,Gaithersburg,29 Summit Ave,20877,39.14019,-77.19194
+ELEC,Public,MD,Upper Marlboro,3511 Crain Hwy,20774,38.841941,-76.727958
+ELEC,Public,MD,Fort Washington,7007 Bock Rd,20744,38.791911,-76.974117
+ELEC,Public,MD,Baltimore,401 N Smallwood St,21223,39.293223,-76.651416
+ELEC,Public,MD,Gambrills,1334 Defense Hwy,21054,38.992897,-76.670679
+ELEC,Public,MD,Owings Mills,4545 Painters Mill Rd,21117,39.396681,-76.784442
+ELEC,Public,MD,Owings Mills,4515 Painters Mill Rd,21117,39.394636,-76.786026
+ELEC,Public,MD,Owings Mills,4515 Painters Mill Rd,21117,39.394792,-76.785994
+ELEC,Public,MD,Owings Mills,4545 Painters Mill Rd,21117,39.396614,-76.78457
+ELEC,Public,MD,Owings Mills,4525 Painters Mill Rd,21117,39.394354,-76.784668
+ELEC,Public,MD,Owings Mills,4555 Painters Mill Rd,21117,39.396523,-76.786
+ELEC,Public,MD,Owings Mills,4405 Painters Mill Rd,21117,39.3919,-76.78623
+ELEC,Public,MD,Owings Mills,4525 Painters Mill Rd,21117,39.39433,-76.784744
+ELEC,Public,MD,Owings Mills,11550 cronridge dr,21117,39.443893,-76.77125
+ELEC,Public,MD,Owings Mills,4435 Painters Mill Rd,21117,39.391197,-76.785164
+ELEC,Public,MD,Owings Mills,4405 Painters Mill Rd,21117,39.391785,-76.78603
+ELEC,Public,MD,Owings Mills,4435 Painters Mill Rd,21117,39.391106,-76.78497
+ELEC,Public,MD,Hagerstown,13302 Pennsylvania Avenue,21742,39.6789641,-77.7273242
+ELEC,Public,MD,Baltimore,3201 Barclay St.,21218,39.328144,-76.610895
+ELEC,Public,MD,GLEN BURNIE,7327 RITCHIE HWY,21061,39.169322,-76.620061
+ELEC,Public,MD,Flintstone,16701 Lakeview Rd NE,21530,39.700343,-78.656296
+ELEC,Public,MD,Flintstone,16701 Lakeview Rd NE,21530,39.700277,-78.65591
+ELEC,Public,MD,Hughesville,13675 Oaks Road,20637,38.502463,-76.826174
+ELEC,Public,MD,Baltimore,"3910 Keswick Road, Suite N2500",21211,39.336311,-76.62892
+ELEC,Public,MD,Baltimore,5500 East Lombard Street,21224,39.294324,-76.5508569
+ELEC,Public,MD,Cambridge,1025 Washington St,21613,38.56765,-76.09415
+ELEC,Public,MD,Lanham,10100 Business Parkway,20706,38.9571239,-76.8298608
+ELEC,Public,MD,Columbia,6692 Cedar Ln,21044,39.190196,-76.894893
+ELEC,Public,MD,Germantown,20501 Seneca Meadows Parkway,20876,39.1952492,-77.2588023
+ELEC,Public,MD,Upper Marlboro,9601 Fallard Terrace,20772,38.8033938,-76.8405929
+ELEC,Public,MD,Laurel,14800 Sweitzer Lane,20707,39.0924086,-76.8997394
+ELEC,Public,MD,Laurel,6151 Chevy Chase Drive,20707,39.0939862,-76.9012058
+ELEC,Public,MD,Upper Marlboro,14741 Governor Oden Bowie Drive,20772,38.8181027,-76.7511132
+ELEC,Public,MD,Upper Marlboro,9822 Fallard Court,20772,38.8070349,-76.8391215
+ELEC,Public,MD,Elkridge,6865 Deerpath Rd,21075,39.181073,-76.74763
+ELEC,Public,MD,Baltimore,151-173 E 34th St,21218,39.329201,-76.61552
+ELEC,Public,MD,Baltimore,151-173 E 34th St,21218,39.329188,-76.6155
+ELEC,Public,MD,Baltimore,151-173 E 34th St,21218,39.329203,-76.615501
+ELEC,Public,MD,Baltimore,151-173 E 34th St,21218,39.329187,-76.615518
+ELEC,Public,MD,Joppatowne,1419 Mountain Rd,21085,39.439787,-76.34527
+ELEC,Public,MD,Annapolis,321 Buschs Frontage Rd,21409,39.027069,-76.455375
+ELEC,Public,MD,District Heights,2151 Brooks Dr,20747,38.86179,-76.91888
+ELEC,Public,MD,Ocean City,13700 Coastal Hwy,21842,38.4429691,-75.052648
+ELEC,Public,MD,Washington Grove,300 Chestnut Rd,20880,39.140467,-77.176255
+ELEC,Public,MD,Baltimore,5600 The Alameda,21239,39.3579597,-76.5959625
+ELEC,Public,MD,Frederick,7932 Opossumtown Pike,21702,39.4520857,-77.4185333
+ELEC,Public,MD,North Bethesda,11870 Grand Park Avenue,20852,39.050335,-77.117534
+ELEC,Public,MD,Cumberland,210 Greene St,21502,39.64971,-78.7702
+ELEC,Public,MD,Hagerstown,19943 Ashfield Ct,21742,39.624861,-77.677538
+ELEC,Public,MD,Frederick,1000 Key Pkwy,21702,39.419533,-77.438117
+ELEC,Public,MD,Silver Spring,2004 Shorefield Rd,20902,39.052794,-77.044882
+ELEC,Public,MD,Baltimore,124 Market Pl.,21202,39.287440402914655,-76.60705447196962
+ELEC,Public,MD,Gaithersburg,625 N Frederick Ave,20879,39.155069,-77.213318
+ELEC,Public,MD,Gaithersburg,625 Frederick Rd,20879,39.155003,-77.213425
+ELEC,Public,MD,Silver Spring,15101 Interlachen Dr,20906,39.103342,-77.068704
+ELEC,Public,MD,Silver Spring,15101 Interlachen Dr,20906,39.103393,-77.068693
+ELEC,Public,MD,Bowie,2260 Crain Hwy,20716,38.921305,-76.718019
+ELEC,Public,MD,Queenstown,441 Outlet Center Dr,21658,38.98216,-76.15915
+ELEC,Public,MD,Rockville,15401 Frederick Rd,20855,39.108531,-77.1584
+ELEC,Public,MD,Baltimore,4901 Boston St,21224,39.27713,-76.55358
+ELEC,Public,MD,McHenry,72-99 Fort Dr,21541,39.54995,-79.35162
+ELEC,Public,MD,Silver Spring,12210 Cherry Hill Rd,20904,39.05969,-76.959206
+ELEC,Public,MD,Baltimore,400 East Saratoga Street,21202,39.292929,-76.610125
+ELEC,Public,MD,Olney,16601 Georgia Ave.,20832,39.126124,-77.069875
+ELEC,Public,MD,Frederick,7402 Shockley Dr,21704,39.376504,-77.408786
+ELEC,Public,MD,Camp Springs,5060 Auth Way,20746,38.827557,-76.921934
+ELEC,Public,MD,New Carrollton,8100 Annapolis Rd,20784,38.95546,-76.874223
+ELEC,Public,MD,Rockville,755 Rockville Pike,20852,39.078073,-77.142115
+ELEC,Public,MD,Rockville,15625 Frederick Rd,20855,39.113211,-77.161514
+ELEC,Public,MD,Cumberland,13 Canal St,21502,39.649551,-78.763608
+ELEC,Public,MD,Cumberland,13 Canal St,21502,39.649561,-78.763659
+ELEC,Public,MD,Cumberland,13 Canal St,21502,39.649539,-78.763636
+ELEC,Public,MD,Nottingham,8001 Belair Rd,21236,39.374921,-76.506813
+ELEC,Public,MD,Brandywine,16410 McKendree Rd,20613,38.66435,-76.87625
+ELEC,Public,MD,Saint Michaels,213 N Talbot St,21663,38.787759,-76.222001
+ELEC,Public,MD,Upper Marlboro,8711 Westphalia Rd,20774,38.840749,-76.853506
+ELEC,Public,MD,Upper Marlboro,8711 Westphalia Rd,20774,38.840791,-76.853441
+ELEC,Public,MD,Upper Marlboro,8711 Westphalia Rd,20774,38.840808,-76.853538
+ELEC,Public,MD,Upper Marlboro,8711 Westphalia Rd,20774,38.840757,-76.853484
+ELEC,Public,MD,Upper Marlboro,8711 Westphalia Rd,20774,38.840799,-76.853559
+ELEC,Public,MD,Upper Marlboro,8711 Westphalia Rd,20774,38.840816,-76.853452
+ELEC,Public,MD,Chesapeake City,600 2nd St,21915,39.52651,-75.81162
+ELEC,Public,MD,Frederick,2250 Bear Den Rd,21701,39.455685,-77.38199
+ELEC,Public,MD,Rockville,33 Monroe St,20850,39.084623,-77.149507
+ELEC,Public,MD,Point of Rocks,3728 Clay St,21777,39.27461,-77.538623
+ELEC,Public,MD,Big Pool,11079 Big Pool Rd,21711,39.62799,-78.018151
+ELEC,Public,MD,Annapolis,301 King George St,21402,38.98599,-76.496476
+ELEC,Public,MD,Annapolis,301 King George Street,21402,38.986076,-76.496865
+ELEC,Public,MD,Annapolis,301 King George St,21402,38.986,-76.49646
+ELEC,Public,MD,Annapolis,301 King George St,21402,38.985994,-76.496631
+ELEC,Public,MD,Annapolis,301 King George St,21402,38.985983,-76.496456
+ELEC,Public,MD,Annapolis,301 King George St,21402,38.985978,-76.496486
+ELEC,Public,MD,Catonsville,6328 Baltimore National Pike,21228,39.2846,-76.755448
+ELEC,Public,MD,Catonsville,1917 Powers Ln,21228,39.285167,-76.754797
+ELEC,Public,MD,Baltimore,501 E Chase St,21202,39.301493,-76.608502
+ELEC,Public,MD,Baltimore,2126 McElderry St,21205,39.297919,-76.586857
+ELEC,Public,MD,College Park,Yale Ave,20740,38.98138,-76.93643
+ELEC,Public,MD,Annapolis,161 Defense Highway,21401,38.984928,-76.557039
+ELEC,Public,MD,Annapolis,161 Defense Highway,21401,38.984938,-76.557073
+ELEC,Public,MD,Aberdeen,818 Long Dr,21001,39.531785,-76.189748
+ELEC,Public,MD,Ellicott City,3450 Court House Dr,21043,39.274832,-76.806003
+ELEC,Public,MD,Frederick,7800 Genstar Dr,21704,39.382128,-77.394799
+ELEC,Public,MD,Baltimore,770 Covington St,21230,39.27311,-76.60673
+ELEC,Public,MD,Dundalk,7401 Holabird Ave,21222,39.271647,-76.512112
+ELEC,Public,MD,Annapolis,7040 Bembe Beach Rd,21403,38.96612,-76.47603
+ELEC,Public,MD,Rosedale,9150 Franklin Square Dr. 21237,21237,39.354575,-76.474107
+ELEC,Public,MD,Annapolis,150 Gorman St,21401,38.976983,-76.48914
+ELEC,Public,MD,Annapolis,169 Green St,21401,38.976741,-76.489152
+ELEC,Public,MD,Annapolis,169 Green St,21401,38.976869,-76.48911
+ELEC,Public,MD,Frederick,1108 W 7th St,21701,39.427837,-77.419316
+ELEC,Public,MD,Grasonville,101 Hissey Rd,21638,38.965566,-76.194145
+ELEC,Public,MD,Essex,99 Stemmers Run Rd,21221,39.319643,-76.45423
+ELEC,Public,MD,Frederick,1108 W 7th St,21701,39.427863,-77.419265
+ELEC,Public,MD,Frederick,1108 W 7th St,21701,39.427877,-77.419235
+ELEC,Public,MD,Gaithersburg,15 Metropolitan Grove Rd,20878,39.148239,-77.225876
+ELEC,Public,MD,Brunswick,20 W Potomac St,21716,39.312877,-77.627222
+ELEC,Public,MD,Great Mills,Chancellors Run RD,20634,38.267524,-76.497915
+ELEC,Public,MD,Aberdeen,900 S Philadelphia Blvd,21001,39.493537,-76.182883
+ELEC,Public,MD,Fallston,2741 Fallston Rd,21047,39.543829,-76.473118
+ELEC,Public,MD,Monkton,16940 York Rd.,21111,39.589785,-76.66381
+ELEC,Public,MD,Riverdale,6143 64th Ave,20737,38.963645,-76.906502
+ELEC,Public,MD,millersville,8435 Maxwell Frye Rd,21108,39.100909,-76.621135
+ELEC,Public,MD,Hagerstown,17301 Valley Mall Road,21740,39.6263406,-77.7707858
+ELEC,Public,MD,Hagerstown,17301 Valley Mall Road,21740,39.6263411,-77.7707526
+ELEC,Public,MD,Hagerstown,17301 Valley Mall Road,21740,39.6263336,-77.7707201
+ELEC,Public,MD,Hagerstown,17301 Valley Mall Road,21740,39.6263321,-77.7706869
+ELEC,Public,MD,Hagerstown,17301 Valley Mall Road,21740,39.6263293,-77.7706628
+ELEC,Public,MD,Hagerstown,17301 Valley Mall Road,21740,39.6263305,-77.7706387
+ELEC,Public,MD,Baltimore,"Mason F. Lord Center Tower, 5200 Eastern Avenue",21224,39.2713976,-76.5603828
+ELEC,Public,MD,North Bethesda,11400 Commonwealth Drive,20852,39.0428619,-77.118424
+ELEC,Public,MD,Baltimore,6995 Bethlehem Blvd,21219,39.2353817,-76.4770543
+ELEC,Public,MD,Baltimore,3011 Fallstaff Rd,21209,39.3691773,-76.6905144
+ELEC,Public,MD,Baltimore,3021 Fallstaff Rd,21209,39.3695921,-76.6903457
+ELEC,Public,MD,Baltimore,3031 Fallstaff Rd,21209,39.3688491,-76.6915749
+ELEC,Public,MD,Baltimore,3041 Fallstaff Rd,21209,39.3682091,-76.6918906
+ELEC,Public,MD,Cockeysville,226 Schilling Circle,21031,39.4919451,-76.6655007
+ELEC,Public,MD,Pikesville,9050 Iron Horse Lane,21208,39.3948787,-76.7497036
+ELEC,Public,MD,gaithersburg,7871 Beechcraft ave suite 100,20879,39.1631281,-77.1608912
+ELEC,Public,MD,Gaithersburg,1 Medimmune Way,20878,39.1262994,-77.2317661
+ELEC,Public,MD,Columbia,7142 Columbia Gateway Drive,21046,39.1777314,-76.8048631
+ELEC,Public,MD,Riverdale Park,5801 University Research Court,20737,38.968964,-76.922414
+ELEC,Public,MD,Baltimore,3700 San Martin Drive,21218,39.3327283,-76.6232773
+ELEC,Public,MD,Gaithersburg,200 Orchard Ridge Drive,20878,39.1279516,-77.2348556
+ELEC,Public,MD,Columbia,8621 Robert Fulton Drive,21046,39.1737211,-76.8114557
+ELEC,Public,MD,Annapolis Junction,10125 Junction Drive,20701,39.1248225,-76.7952994
+ELEC,Public,MD,Baltimore,900 East Fort Avenue,21230,39.2718049,-76.6003369
+ELEC,Public,MD,Columbia,6724 Alexander Bell Drive,21046,39.186544,-76.809329
+ELEC,Public,MD,Columbia,6750 Alexander Bell Drive,21046,39.188943,-76.8117983
+ELEC,Public,MD,Rockville,1600 Research Boulevard,20850,39.094617,-77.181196
+ELEC,Public,MD,Columbia,10320 Little Patuxent Parkway,21044,39.2149708,-76.858265
+ELEC,Public,MD,Frederick,"5265 Westview Drive REAR
+5295 Westview Drive SIDE",21703,39.383145,-77.412814
+ELEC,Public,MD,Gaithersburg,101 Park Ave.,20877,39.1444197,-77.1954681
+ELEC,Public,MD,Frostburg,301 Braddock Road,21532,39.6423036,-78.9391872
+ELEC,Public,MD,Elkton,1000 Spyglass Drive,21921,39.6160469,-75.7901982
+ELEC,Public,MD,Bethesda,6555 Rock Spring Drive,20817,39.0277214,-77.1364722
+ELEC,Public,MD,Landover,3600 Brightseat Rd.,20785,38.9354665,-76.8589433
+ELEC,Public,MD,Baltimore,6 E. Eager Street,21202,39.3012633,-76.6152995
+ELEC,Public,MD,Annapolis,100 Ridgely Avenue,21041,38.989538,-76.5030033
+ELEC,Public,MD,Annapolis Junction,306 Sentinel Drive,20701,39.1233162,-76.7713433
+ELEC,Public,MD,Bethesda,"4400 East West Highway, Suite H",20814,38.98467,-77.08988
+ELEC,Public,MD,North Bethesda,10306 Strathmore Hall Street,20852,39.025997,-77.102477
+ELEC,Public,MD,Annapolis Junction,304 Sentinel Drive,20701,39.1233187,-76.772182
+ELEC,Public,MD,Annapolis Junction,2691 Technology Drive,20701,39.1209463,-76.7777437
+ELEC,Public,MD,Annapolis Junction,420 National Business Parkway,20701,39.1355084,-76.7695278
+ELEC,Public,MD,Linthicum Heights,911 Elkridge Landing Road,21090,39.2016727,-76.6839554
+ELEC,Public,MD,Linthicum Heights,901 Elkridge Landing Road,21090,39.2002711,-76.684
+ELEC,Public,MD,Linthicum Heights,1201 Winterson Road,21090,39.2031707,-76.6825862
+ELEC,Public,MD,Frederick,550 Stanton Street,21701,39.4504753,-77.3915102
+ELEC,Public,MD,Owings Mills,10620 Red Run Blvd,21117,39.4114316,-76.7972156
+ELEC,Public,MD,Gaithersburg,1 Medimmune Way,20878,39.12602936774182,-77.23245205767194
+ELEC,Public,MD,Fulton,"11850 West Market Place, Suite P",20759,39.152945,-76.9092946
+ELEC,Public,MD,Fort Meade,303 Chamberlin Ave,20755,39.0962612,-76.7219445
+ELEC,Public,MD,Columbia,6740 Alexander Bell Drive,21046,39.189084,-76.8107778
+ELEC,Public,MD,Gaithersburg,750 Clopper Road,20878,39.1440144,-77.2256512
+ELEC,Public,MD,North Bethesda,10306 Strathmore Hall St,20852,39.02601,-77.10203
+ELEC,Public,MD,Jessup,7154 Montevideo Road,20794,39.17340800242271,-76.77663742011032
+ELEC,Public,MD,Hanover,"7231 Parkway Drive
+Suite 100",21076,39.173997,-76.7303521
+ELEC,Public,MD,Cockeysville,230 Schilling Circle,21031,39.4902722,-76.6652053
+ELEC,Public,MD,Cockeysville,225 Schilling Circle,21031,39.4907953,-76.6634704
+ELEC,Public,MD,Rockville,11300 Rockville Pike,20852,39.0415003,-77.1113912
+ELEC,Public,MD,Hanover,7405 Windstream Circle,21076,39.16328478953407,-76.72144104893944
+ELEC,Public,MD,White Marsh,10740 Pulaski Highway,21162,39.379908,-76.42862
+ELEC,Public,MD,Baltimore,5500 East Lombard Street,21224,39.294324,-76.5508569
+ELEC,Public,MD,Linthicum,"1306 Concourse Dr, Linthicum",21090,39.2051077,-76.6527456
+ELEC,Public,MD,Annapolis Junction,135 National Business Pkwy,20701,39.1203088,-76.776451
+ELEC,Public,MD,Baltimore,1519 S Clinton St,21224,39.2745538,-76.5686991
+ELEC,Public,MD,Hanover,1362 Mellon Road,21076,39.16055,-76.7103392
+ELEC,Public,MD,Columbia,6950 Columbia Gateway Drive,21046,39.180545,-76.800684
+ELEC,Public,MD,Columbia,7249 Swan Point Way,21045,39.184579,-76.84201
+ELEC,Public,MD,Sykesville,7547 Main Street,21784,39.3664046459304,-76.9684620912619
+ELEC,Public,MD,Rockville,12721 Twinbrook Parkway,20852,39.0587398,-77.1204712
+ELEC,Public,MD,Rockville,1600 Research Blvd,20850,39.094173,-77.18171799999999
+ELEC,Public,MD,Rockville,1700 Research Blvd.,20850,39.096201,-77.18273800000003
+ELEC,Public,MD,Rockville,1600 Research Blvd.,20850,39.092982,-77.18029000000001
+ELEC,Public,MD,Columbia,6715 Columbia Gateway Drive,21046,39.1845922,-76.807212
+ELEC,Public,MD,Odenton,8313 Telegraph Road,21113,39.242897,-77.141904
+ELEC,Public,MD,Baltimore,"One South Street, Suite 820",21202,39.289279,-76.61057399999999
+ELEC,Public,MD,Owings Mills,10455 Mill Run Circle,21117,39.4056805,-76.7960916
+ELEC,Public,MD,Hanover,7740 Milestone Parkway,21076,39.1514472,-76.7483399
+ELEC,Public,MD,College Park,9217 51st Avenue,20740,39.00412545701672,-76.92090902012097
+ELEC,Public,MD,Elkridge,6518 Meadowridge Road,21075,39.19001235934968,-76.77760631534383
+ELEC,Public,MD,Joppatowne,2620 Mountain Road,21085,39.450796940509264,-76.35526084232943
+ELEC,Public,MD,North East,500 Mechanics Valley Road,21901,39.611483,-75.931598
+ELEC,Public,MD,Columbia,7125 Columbia Gateway Drive,21046,39.1767653,-76.8093038
+ELEC,Public,MD,Hanover,7272 Park Circle Drive,21076,39.1804725,-76.7328528
+ELEC,Public,MD,Chevy Chase,5260 Western Avenue,20815,38.9612825,-77.0907253
+ELEC,Public,MD,Greenbelt,6406 Ivy Lane,20770,39.0089301,-76.8952471
+ELEC,Public,MD,Annapolis Junction,2721 Technology Drive,20701,39.1199188,-76.7757604
+ELEC,Public,MD,Annapolis Junction,310 A Sentinel Way,20701,39.124691,-76.76988
+ELEC,Public,MD,Gaithersburg,100 Lakeforest Boulevard,20877,39.1522624,-77.2088089
+ELEC,Public,MD,Nottingham,4420 Fitch Avenue,21236,39.3698778,-76.5027125
+ELEC,Public,MD,Columbia,7170 Riverwood Drive,21046,39.1741984,-76.8755843
+ELEC,Public,MD,Columbia,6480 Dobbin Road,21045,39.193104,-76.8219529
+ELEC,Public,MD,Hanover,7880 Milestone Parkway,21076,39.1423472,-76.7516067
+ELEC,Public,MD,Baltimore,951 Fell St.,21231,39.280587,-76.588139
+ELEC,Public,MD,Baltimore,"300 West Pratt Street
+Suite 520",21201,39.2866201,-76.6196922
+ELEC,Public,MD,College Park,4600 River Road,20737,38.971012,-76.927031
+ELEC,Public,MD,Columbia,7063 Columbia Gateway Drive,21046,39.1719524,-76.8085716
+ELEC,Public,MD,Upper Marlboro,9400 HealthCare Way,20774,38.8159473,-76.7496909
+ELEC,Public,MD,Rockville,9910 Belward Campus Drive,20850,39.1033387,-77.2089859
+ELEC,Public,MD,Bethesda,6600 Rockledge Boulevard,20817,39.0278906,-77.1329665
+ELEC,Public,MD,Germantown,11717 Exploration Lane,20876,39.1793165,-77.246935
+ELEC,Public,MD,Elkridge,7175 Troy Hill Drive,21075,39.1944654,-76.7536711
+ELEC,Public,MD,Pasadena,8005 Cameryn Place,21122,39.132147,-76.5789864
+ELEC,Public,MD,Pasadena,8013 Cameryn Place,21122,39.1333235,-76.5792358
+ELEC,Public,MD,Annapolis Junction,410 National Business Parkway,20701,39.1347958,-76.7689086
+ELEC,Public,MD,Largo,601 Harry S. Truman Drive,20774,38.8805687,-76.8300888
+ELEC,Public,MD,Gaithersburg,800 Rockwell Ave,20878,39.1121095,-77.200162
+ELEC,Public,MD,Hanover,7501 Trafalgar Circle,21076,39.16146996690787,-76.71825853178784
+ELEC,Public,MD,Baltimore,2560 Lord Baltimore Drive,21244,39.32581125551268,-76.75214876264033
+ELEC,Public,MD,Cecilton,115 North Bohemia Avenue,21913,39.404748,-75.86788
+ELEC,Public,MD,WESTMINSTER,322 W. MAIN STREET,21158,39.5863989,-77.0152915
+ELEC,Public,MD,Annapolis Junction,132 National Business Parkway,20701,39.1247562,-76.776121
+ELEC,Public,MD,Annapolis Junction,134 National Business Parkway,20701,39.1262718,-76.7753998
+ELEC,Public,MD,Annapolis Junction,302 Sentinel Drive,20701,39.1225411,-76.7714348
+ELEC,Public,MD,Baltimore,8531 Upton Circle,21237,39.3520151,-76.4896992
+ELEC,Public,MD,Odenton,2404 Ash Grove Lane,21113,39.0661654,-76.7152535
+ELEC,Public,MD,North East,400 W. Claiborne Rd.,21901,39.5940882,-75.9798412
+ELEC,Public,MD,Annapolis Junction,2701 Technology Drive,20701,39.120457,-76.7766169
+ELEC,Public,MD,Annapolis Junction,316 Sentinel Way,20701,39.126971,-76.7704562
+ELEC,Public,MD,Cockeysville,303 International Circle,21030,39.5000623,-76.6659415
+ELEC,Public,MD,Elkridge,6771 Dorsey Rd,21075,39.18469600291975,-76.75545190338545
+ELEC,Public,MD,Silver Spring,13781 Connecticut Ave.,20906,39.079831886,-77.079158958
+ELEC,Public,MD,Annapolis,80 Compromise St,21401,38.976027,-76.485874
+ELEC,Public,MD,Annapolis,39 Hudson Street,21401,38.985796,-76.52963
+ELEC,Public,MD,College Park,8340 Baltimore Ave,20740,38.994647,-76.932594
+ELEC,Public,MD,Cambridge,8 Washington St,21613,38.55958,-76.064092
