@@ -7,6 +7,7 @@
 
  Data Visualization
 - Please see link below for presentation:
+
 https://docs.google.com/presentation/d/1ELClz7yMiY6LxpjFsggWMEc2rRyJgPI2SmsRUrqf3_I/edit?usp=sharing
 
 # References
